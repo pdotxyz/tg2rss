@@ -1,0 +1,50 @@
+
+name: tg2rss
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Generate RSS feeds
+        id: generate
+        shell: bash
+        run: |
+          set +e
+
+          uv run tg2rss.py $(cat channels.txt)
+          status=$?
+
+          mkdir -p docs
+
+          for file in ./*.xml; do
+            [ -f "$file" ] || continue
+            mv "$file" docs/
+          done
+
+          echo "exit_code=$status" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Commit updated feeds
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update Telegram RSS feeds"
+          file_pattern: "docs/*.xml"
+
+      - name: Check generation result
+        if: steps.generate.outputs.exit_code != '0'
+        run: exit 1
