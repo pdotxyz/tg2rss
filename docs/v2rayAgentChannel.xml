@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Telegram: v2rayAgentChannel</title>
+    <link>https://t.me/s/v2rayAgentChannel</link>
+    <description>Posts from t.me/v2rayAgentChannel</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sun, 01 Nov 2026 16:16:59 +0000</lastBuildDate>
+    <item>
+      <title>Release v3.5.35· mack-a/v2ray-agent 已开通X，欢迎关注 #更新日志 现在对新版xray-core做出了兼容更改。需要重新生成</title>
+      <link>https://t.me/v2rayAgentChannel/2158</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Release v3.5.35· mack-a/v2ray-agent&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://x.com/v2rayagent" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;已开通X，欢迎关注&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="?q=%23%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97"&gt;&lt;b&gt;#更新日志&lt;/b&gt;&lt;/a&gt;&lt;b&gt; &lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;现在对新版xray-core做出了兼容更改。需要重新生成订阅信息。&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;xray-core(v2rayNG、v2rayN) 客户端和服务端需要升级到最新版本。&lt;br/&gt;&lt;br/&gt;mihomo升级最新版本后重新拉取服务单最新的订阅。&lt;br/&gt;&lt;br/&gt;服务端是sing-box的不受此次更新影响，可以正常使用。&lt;br/&gt;&lt;br/&gt;小火煎升级最新版本后，打开Reality节点-&amp;gt;TLS-&amp;gt;指纹-&amp;gt;选择Chrome120或者选择支持X25519MLKEM768的指纹即可。&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;fix(xhttp): 修正 REALITY 与 TLS 的 CDN 支持描述&lt;br/&gt;fix(reality): 完善 Mihomo ML-KEM 配置及 pqv 导出规则&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.v2ray-agent.com/archives/1684115970026" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"&gt;&lt;b&gt;1️⃣&lt;/b&gt;&lt;/i&gt; 脚本异常处理&lt;/a&gt;&lt;br/&gt;&lt;a href="https://www.v2ray-agent.com/archives/1679931532764" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"&gt;&lt;b&gt;2️⃣&lt;/b&gt;&lt;/i&gt; 脚本使用注意事项&lt;/a&gt;&lt;br/&gt;&lt;a href="https://www.v2ray-agent.com/archives/racknerdtao-can-zheng-li-nian-fu-10mei-yuan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"&gt;&lt;b&gt;3️⃣&lt;/b&gt;&lt;/i&gt; 低价联通AS4837年付10美&lt;/a&gt;&lt;br/&gt;&lt;a href="https://www.v2ray-agent.com/archives/1680104902581" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"&gt;&lt;b&gt;4️⃣&lt;/b&gt;&lt;/i&gt; 搭建最新的VLESS Vision和VLESS Reality防止VPS端口封禁&lt;/a&gt;&lt;br/&gt;&lt;a href="https://www.v2ray-agent.com/archives/1710141233" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/35E283A3.png')"&gt;&lt;b&gt;5️⃣&lt;/b&gt;&lt;/i&gt; 八合一脚本入门到精通&lt;/a&gt;&lt;br/&gt;&lt;a href="https://www.v2ray-agent.com/archives/1679975663984" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/36E283A3.png')"&gt;&lt;b&gt;6️⃣&lt;/b&gt;&lt;/i&gt; VPS选购攻略，避坑指南&lt;/a&gt;&lt;br/&gt;&lt;a href="https://www.v2ray-agent.com/archives/1679931532764#1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/37E283A3.png')"&gt;&lt;b&gt;7️⃣&lt;/b&gt;&lt;/i&gt; 自定义证书教程&lt;/a&gt;&lt;br/&gt;&lt;a href="https://ping.v2ray-agent.com/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/38E283A3.png')"&gt;&lt;b&gt;8️⃣&lt;/b&gt;&lt;/i&gt; VPS哪吒探针&lt;/a&gt;&lt;a href="https://www.v2ray-agent.com/archives/1680104902581" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;br/&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href="?q=%23%E5%A5%97%E9%A4%90%E6%8E%A8%E8%8D%90"&gt;&lt;b&gt;#套餐推荐&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;RackNerd 2026最新套餐&lt;br/&gt;&lt;a href="https://t.me/v2rayAgentChannel/2047" rel="noopener" target="_blank"&gt;https://t.me/v2rayAgentChannel/2047&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;DMIT Premium Pro【优质三网GIA】&lt;br/&gt;&lt;a href="https://t.me/v2rayAgentChannel/2041" rel="noopener" target="_blank"&gt;https://t.me/v2rayAgentChannel/2041&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;搬瓦工商务套餐&lt;br/&gt;&lt;a href="https://t.me/v2rayAgentChannel/1991" rel="noopener" target="_blank"&gt;https://t.me/v2rayAgentChannel/1991&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2158</guid>
+      <pubDate>Sun, 01 Nov 2026 16:16:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>最近升级xray-core后无法使用的，可以回退到上一个正式版本。</title>
+      <link>https://t.me/v2rayAgentChannel/2154</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;最近升级xray-core后无法使用的，可以回退到上一个正式版本。&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2154</guid>
+      <pubDate>Wed, 28 Oct 2026 11:17:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CloudCone 活动款，洛杉矶DC1。推荐用于备用或者非高峰期下载视频游戏等大流量场景。 Year-End-25-VPS-1 1 x vCPU 1GB RA</title>
+      <link>https://t.me/v2rayAgentChannel/2149</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;CloudCone 活动款，洛杉矶DC1。推荐用于备用或者非高峰期下载视频游戏等大流量场景。&lt;br/&gt;&lt;br/&gt;Year-End-25-VPS-1&lt;br/&gt;1 x vCPU&lt;br/&gt;1GB RAM&lt;br/&gt;50GB SSD&lt;br/&gt;1TB流量&lt;br/&gt;1x IPv4和3x IPv6&lt;br/&gt;数据中心：美国洛杉矶DC1&lt;br/&gt;$9.99/Year&lt;br/&gt;&lt;br/&gt;&lt;a href="https://app.cloudcone.com/vps/498/create?ref=6758&amp;amp;token=year-end-25-vps-1" rel="noopener" target="_blank"&gt;https://app.cloudcone.com/vps/498/create?ref=6758&amp;amp;token=year-end-25-vps-1&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Year-End-25-VPS-2&lt;br/&gt;2 x vCPU&lt;br/&gt;2GB RAM&lt;br/&gt;100GB SSD&lt;br/&gt;2TB流量&lt;br/&gt;1x IPv4和3x IPv6&lt;br/&gt;数据中心：美国洛杉矶DC1&lt;br/&gt;$14.49/Year&lt;br/&gt;&lt;br/&gt;&lt;a href="https://app.cloudcone.com/vps/499/create?ref=6758&amp;amp;token=year-end-25-vps-2" rel="noopener" target="_blank"&gt;https://app.cloudcone.com/vps/499/create?ref=6758&amp;amp;token=year-end-25-vps-2&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2149</guid>
+      <pubDate>Thu, 15 Oct 2026 16:36:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZgoCloud补货洛杉矶9929+CMIN2优化线路机型，上游kurun，带宽300Mbps，原生IP 支持3天内流量不超过10G可工单退款 电信，联通走99</title>
+      <link>https://t.me/v2rayAgentChannel/2148</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;ZgoCloud补货洛杉矶9929+CMIN2优化线路机型，上游kurun，带宽300Mbps，原生IP&lt;br/&gt;&lt;br/&gt;支持3天内流量不超过10G可工单退款&lt;br/&gt;&lt;br/&gt;电信，联通走9929，移动走CMIN2&lt;br/&gt;&lt;br/&gt;1 Core AMD EPYC 7003 Series or Intel(R) Xeon(R) Gold&lt;br/&gt;2 GB DDR4 RAM&lt;br/&gt;30G NVMe SSD&lt;br/&gt;1 IPV4&lt;br/&gt;1T/Month/300Mbps&lt;br/&gt;购买：&lt;a href="https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=66" rel="noopener" target="_blank"&gt;https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=66&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2 Cores AMD EPYC 7003 Series or Intel(R) Xeon(R) Gold&lt;br/&gt;3 GB DDR4 RAM&lt;br/&gt;50G NVMe SSD&lt;br/&gt;1 IPV4&lt;br/&gt;2T/Month/300Mbps&lt;br/&gt;购买：&lt;a href="https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=67" rel="noopener" target="_blank"&gt;https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=67&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2148</guid>
+      <pubDate>Thu, 15 Oct 2026 10:37:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>大佬们，有没有稳定的Opus5.5渠道。</title>
+      <link>https://t.me/v2rayAgentChannel/2147</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;大佬们，有没有稳定的Opus5.5渠道。&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2147</guid>
+      <pubDate>Tue, 13 Oct 2026 02:59:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>最近有什么新技术和新玩法吗？（沉迷Ai中</title>
+      <link>https://t.me/v2rayAgentChannel/2146</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;最近有什么新技术和新玩法吗？（沉迷Ai中&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2146</guid>
+      <pubDate>Mon, 12 Oct 2026 10:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>现在有靠谱的家宽IP厂商推荐吗？</title>
+      <link>https://t.me/v2rayAgentChannel/2145</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;现在有靠谱的家宽IP厂商推荐吗？&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2145</guid>
+      <pubDate>Sun, 11 Oct 2026 12:38:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>DMIT 洛杉矶Pro套餐补货了 洛杉矶Pro套餐，三网CN2GIA： 1C / 2G / 20G SSD / 1T 流量每月 / 10.9刀每月 https:</title>
+      <link>https://t.me/v2rayAgentChannel/2143</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;DMIT 洛杉矶Pro套餐补货了&lt;br/&gt;&lt;br/&gt;洛杉矶Pro套餐，三网CN2GIA：&lt;br/&gt;1C / 2G / 20G SSD / 1T 流量每月 / 10.9刀每月&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=253" rel="noopener" target="_blank"&gt;https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=253&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2143</guid>
+      <pubDate>Wed, 30 Sep 2026 10:46:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>香港EB上架了 去程： 电信：CN2 - 香港CTG - DMIT 联通：4837 - 香港ntt - DMIT 移动：CMI - Lumen - DMIT 回</title>
+      <link>https://t.me/v2rayAgentChannel/2138</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;香港EB上架了&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;去程：&lt;br/&gt;电信：CN2 - 香港CTG - DMIT&lt;br/&gt;联通：4837 - 香港ntt - DMIT&lt;br/&gt;移动：CMI - Lumen - DMIT&lt;br/&gt;&lt;br/&gt;回程：&lt;br/&gt;&lt;br/&gt;电信163PP、联通CMI、移动CMI。&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.dmit.io/cart.php?region=hong-kong&amp;amp;network=eyeball&amp;amp;aff=3084&amp;amp;generation=as3" rel="noopener" target="_blank"&gt;https://www.dmit.io/cart.php?region=hong-kong&amp;amp;network=eyeball&amp;amp;aff=3084&amp;amp;generation=as3&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2138</guid>
+      <pubDate>Mon, 21 Sep 2026 16:58:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>有没有好用的广告机器人，大佬们有推荐吗？</title>
+      <link>https://t.me/v2rayAgentChannel/2136</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;有没有好用的广告机器人，大佬们有推荐吗？&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2136</guid>
+      <pubDate>Sun, 13 Sep 2026 10:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZgoCloud德国三网9929线路机型，持3天内流量不超过10G全额退款： 1 Core AMD 1 GB DDR4 RAM 10G NVMe SSD 1 I</title>
+      <link>https://t.me/v2rayAgentChannel/2135</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;ZgoCloud德国三网9929线路机型，持3天内流量不超过10G全额退款：&lt;br/&gt;&lt;br/&gt;1 Core AMD&lt;br/&gt;1 GB DDR4 RAM&lt;br/&gt;10G NVMe SSD&lt;br/&gt;1 IPV4&lt;br/&gt;1T/Month/200Mbps&lt;br/&gt;$45 USD / Year&lt;br/&gt;购买：&lt;a href="https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=160" rel="noopener" target="_blank"&gt;https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=160&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2 Cores AMD&lt;br/&gt;2 GB DDR4 RAM&lt;br/&gt;20G NVMe SSD&lt;br/&gt;1 IPV4&lt;br/&gt;2T/Month/200Mbps&lt;br/&gt;$88 USD / Year&lt;br/&gt;购买：&lt;a href="https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=161" rel="noopener" target="_blank"&gt;https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=161&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2135</guid>
+      <pubDate>Sat, 12 Sep 2026 07:22:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>DMIT的Reality 异常流量检查工具。其实就是错误使用dest域名导致VPS被cloudflare错误转发。 手动检测方法：https:域名:443/cd</title>
+      <link>https://t.me/v2rayAgentChannel/2130</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;DMIT的Reality 异常流量检查工具。其实就是错误使用dest域名导致VPS被cloudflare错误转发。&lt;br/&gt;&lt;br/&gt;手动检测方法：https:域名:443/cdn-cgi/trace 访问只要有响应则代表需要更换。&lt;br/&gt;&lt;br/&gt;如果使用八合一脚本并且使用xray部署则不需要更改（脚本中已使用任意门进行屏蔽转发）。&lt;br/&gt;&lt;br/&gt;如使用sing-box搭建，采用随机域名，如果是 &lt;a href="http://lol.secure.dyn.riotcdn.net%E3%80%81www.java.com/" rel="noopener" target="_blank"&gt;lol.secure.dyn.riotcdn.net、www.java.com&lt;/a&gt; 这两个则需要手动更换，如果是自定义域名需要自行测试是否需要更换。&lt;br/&gt;&lt;br/&gt;脚本中有检测代码，增加任意门屏蔽后被注释，后续会放开。&lt;br/&gt;&lt;br/&gt;Reality 如果不使用 443、2053、2083、2087、2096 和 8443 这些端口则不触发此问题。&lt;br/&gt;&lt;br/&gt;&lt;a href="https://dmit-abuse-team-temp-security-response.dmit.com/" rel="noopener" target="_blank"&gt;https://dmit-abuse-team-temp-security-response.dmit.com&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2130</guid>
+      <pubDate>Sat, 29 Aug 2026 14:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DMIT 洛杉矶Pro和EB套餐 快下架了！有需要的速度入，dmit的机器可以无脑入！ 洛杉矶Pro套餐，三网CN2GIA： 1C / 2G / 20G SSD</title>
+      <link>https://t.me/v2rayAgentChannel/2128</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;DMIT 洛杉矶Pro和EB套餐 快下架了！有需要的速度入，dmit的机器可以无脑入！&lt;br/&gt;&lt;br/&gt;&lt;b&gt;洛杉矶Pro套餐，三网CN2GIA：&lt;br/&gt;1C / 2G / 20G SSD / 1T 流量每月 / 10.9刀每月&lt;br/&gt;&lt;/b&gt;&lt;a href="https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=253" rel="noopener" target="_blank"&gt;&lt;b&gt;https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=253&lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;br/&gt;—-&lt;br/&gt;&lt;br/&gt;&lt;b&gt;洛杉矶EB套餐，9929 + CMIN2&lt;br/&gt;1C / 2G / 20G SSD / 1.5T 流量每月 / 10.9刀每月&lt;br/&gt;&lt;/b&gt;&lt;a href="https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=259" rel="noopener" target="_blank"&gt;&lt;b&gt;https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=259&lt;/b&gt;&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2128</guid>
+      <pubDate>Fri, 21 Aug 2026 07:49:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>DMIT 自 2026 年 12 月 1 日起，继续使用 154 开头的 Cogent IP 将加收每月 1 美元/IPv4，提前续费或免费更换为 DMIT 自</title>
+      <link>https://t.me/v2rayAgentChannel/2121</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;DMIT 自 2026 年 12 月 1 日起，继续使用 154 开头的 Cogent IP 将加收每月 1 美元/IPv4，提前续费或免费更换为 DMIT 自有 IP 可避免该费用。&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2121</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZgoCloud新上德国三网9929线路机型，上游netlab，支持3天内流量不超过10G全额退款： 线路：三网回程9929 1 Core AMD 1 GB D</title>
+      <link>https://t.me/v2rayAgentChannel/2120</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;ZgoCloud新上德国三网9929线路机型，上游netlab，支持3天内流量不超过10G全额退款：&lt;br/&gt;&lt;br/&gt;线路：三网回程9929&lt;br/&gt;&lt;br/&gt;1 Core AMD&lt;br/&gt;1 GB DDR4 RAM&lt;br/&gt;10G NVMe SSD&lt;br/&gt;1 IPV4&lt;br/&gt;1T/Month/200Mbps&lt;br/&gt;$45 USD / Year&lt;br/&gt;购买：&lt;a href="https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=160" rel="noopener" target="_blank"&gt;https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=160&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2 Cores AMD&lt;br/&gt;2 GB DDR4 RAM&lt;br/&gt;20G NVMe SSD&lt;br/&gt;1 IPV4&lt;br/&gt;2T/Month/200Mbps&lt;br/&gt;$88 USD / Year&lt;br/&gt;购买：&lt;a href="https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=161" rel="noopener" target="_blank"&gt;https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=161&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2120</guid>
+      <pubDate>Mon, 27 Jul 2026 15:09:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>m-ui 现在处于打磨产品和优化体验阶段，有什么需求可以直接在下面留言。</title>
+      <link>https://t.me/v2rayAgentChannel/2119</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;m-ui 现在处于打磨产品和优化体验阶段，有什么需求可以直接在下面留言。&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2119</guid>
+      <pubDate>Sun, 26 Jul 2026 04:15:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>m-ui 管理面板 现在发布预览版。 教程地址： https://www.v2ray-agent.com/archives/019f8a73-89eb-75d0</title>
+      <link>https://t.me/v2rayAgentChannel/2117</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;m-ui 管理面板 现在发布预览版。&lt;br/&gt;&lt;br/&gt;教程地址：&lt;a href="https://www.v2ray-agent.com/archives/019f8a73-89eb-75d0-8892-35fe5bdaf5ed" rel="noopener" target="_blank"&gt;https://www.v2ray-agent.com/archives/019f8a73-89eb-75d0-8892-35fe5bdaf5ed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;预览版地址：&lt;a href="https://github.com/mack-a/m-ui-preview" rel="noopener" target="_blank"&gt;https://github.com/mack-a/m-ui-preview&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2117</guid>
+      <pubDate>Sat, 25 Jul 2026 10:41:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>当时你访问某些网站显示blocked时，可以尝试禁用IPv6，可能有奇效。</title>
+      <link>https://t.me/v2rayAgentChannel/2116</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;当时你访问某些网站显示blocked时，可以尝试禁用IPv6，可能有奇效。&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2116</guid>
+      <pubDate>Sat, 18 Jul 2026 13:31:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>DMIT 洛杉矶Pro和EB套餐补货了，需要的大佬们速度冲。 洛杉矶Pro套餐，三网CN2GIA： 1C / 2G / 20G SSD / 1T 流量每月 / </title>
+      <link>https://t.me/v2rayAgentChannel/2115</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;DMIT 洛杉矶Pro和EB套餐补货了，需要的大佬们速度冲。&lt;br/&gt;&lt;br/&gt;洛杉矶Pro套餐，三网CN2GIA：&lt;br/&gt;1C / 2G / 20G SSD / 1T 流量每月 / 10.9刀每月&lt;br/&gt;&lt;a href="https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=253" rel="noopener" target="_blank"&gt;https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=253&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2C / 2G / 40G SSD / 1.5T 流量每月 / 16.9刀每月&lt;br/&gt;&lt;a href="https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=254" rel="noopener" target="_blank"&gt;https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=254&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;洛杉矶EB套餐，9929 + CMIN2&lt;br/&gt;1C / 2G / 20G SSD / 1.5T 流量每月 / 10.9刀每月&lt;br/&gt;&lt;a href="https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=259" rel="noopener" target="_blank"&gt;https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=259&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2C / 2G / 40G SSD / 3T 流量每月 / 16.9刀每月&lt;br/&gt;&lt;a href="https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=260" rel="noopener" target="_blank"&gt;https://www.dmit.io/aff.php?aff=3084&amp;amp;pid=260&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2115</guid>
+      <pubDate>Thu, 16 Jul 2026 10:18:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZgoCloud补货新洛杉矶三网精品线路机，上游netlab，机器总体还是不错的，支持3天内流量不超过10G全额退款： 线路：CN2 + 9929 + CMIN</title>
+      <link>https://t.me/v2rayAgentChannel/2114</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;ZgoCloud补货新洛杉矶三网精品线路机，上游netlab，机器总体还是不错的，支持3天内流量不超过10G全额退款：&lt;br/&gt;&lt;br/&gt;线路：CN2 + 9929 + CMIN2&lt;br/&gt;&lt;br/&gt;1 Core AMD&lt;br/&gt;1 GB DDR4 RAM&lt;br/&gt;10G NVMe SSD&lt;br/&gt;1 IPV4&lt;br/&gt;500G/Month/200Mbps&lt;br/&gt;$52 USD / Year&lt;br/&gt;购买：&lt;a href="https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=134" rel="noopener" target="_blank"&gt;https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=134&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2 Cores AMD&lt;br/&gt;2 GB DDR4 RAM&lt;br/&gt;20G NVMe SSD&lt;br/&gt;1 IPV4&lt;br/&gt;1T/Month/200Mbps&lt;br/&gt;$96 USD / Year&lt;br/&gt;购买：&lt;a href="https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=136" rel="noopener" target="_blank"&gt;https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=136&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;详细评测：&lt;br/&gt;&lt;a href="https://1024.day/d/3774" rel="noopener" target="_blank"&gt;https://1024.day/d/3774&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2114</guid>
+      <pubDate>Wed, 15 Jul 2026 15:48:06 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
