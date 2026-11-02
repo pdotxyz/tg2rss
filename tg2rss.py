@@ -99,7 +99,7 @@ def fetch_html(channel):
 def build_feed(channel, html):
     url = f"https://t.me/s/{channel}"
     feed = FeedGenerator()
-    fg.title(channel)
+    feed.title(channel)
     feed.link(href=url)
     feed.description(f"Posts from t.me/{channel}")
 
