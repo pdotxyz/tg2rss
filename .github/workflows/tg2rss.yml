@@ -3,7 +3,7 @@ name: tg2rss
 
 on:
   schedule:
-    - cron: "40 * * * *"
+    - cron: "45 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,13 +21,11 @@ jobs:
         uses: astral-sh/setup-uv@v5
 
       - name: Generate RSS feeds
-        id: generate
         shell: bash
         run: |
           set +e
 
           uv run tg2rss.py $(cat channels.txt)
-          status=$?
 
           mkdir -p docs
 
@@ -35,9 +33,6 @@ jobs:
             [ -f "$file" ] || continue
             mv "$file" docs/
           done
-
-          echo "exit_code=$status" >> "$GITHUB_OUTPUT"
-          exit 0
 
       - name: Commit updated feeds
         uses: stefanzweifel/git-auto-commit-action@v5
