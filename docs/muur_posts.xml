@@ -1,12 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Telegram: muur_posts</title>
+    <title>muur_posts</title>
     <link>https://t.me/s/muur_posts</link>
     <description>Posts from t.me/muur_posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 13:23:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:40:31 +0000</lastBuildDate>
+    <item>
+      <title>INFINIT opens its second APEX vault – Link The team opened deposits for APEX 2 o</title>
+      <link>https://t.me/muur_posts/3160</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;INFINIT opens its second APEX vault – &lt;a href="https://app.infinit.tech/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Link&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;The team opened deposits for APEX 2 on Oct 28, following the completion of its first 90-day trading vault on Hyperliquid.&lt;br/&gt;&lt;br/&gt;During APEX 1, the team managed to achieve a 35% APR and outperformed all traditional indices like the S&amp;amp;P 500, KOSPI, HSE, etc. &lt;br/&gt;&lt;br/&gt;INFINIT also provides access to onchain trading activity and weekly performance reports, allowing users to see how their funds were managed throughout the first round.&lt;br/&gt;&lt;br/&gt;APEX 2 brings back the same managers, who plan to apply the same successful strategy, further benefiting from the data and live trading experience of the past three months.&lt;br/&gt;&lt;br/&gt;Deposits close on Nov 11.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;A successful second round could help establish APEX as a serious option for users looking to access professionally managed trading strategies.&lt;/blockquote&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/muur_posts/3160</guid>
+      <pubDate>Mon, 02 Nov 2026 14:40:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aave freezes 292 reserves across Aave V3/V4 within 90 minutes of Binance hack re</title>
+      <link>https://t.me/muur_posts/3159</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Aave freezes 292 reserves across Aave V3/V4 within 90 minutes of Binance hack reaching its markets – &lt;/b&gt;&lt;a href="https://coinmarketcap.com/community/articles/6ae59f39db1ced7d875dfb54" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Aave's guardian multisigs froze 175 reserves across 16 networks on Aave V3 and 117 reserves on V4 after a Binance exploiter deposited 60M USDT and borrowed about 19,762 WETH (≈$44.6M) through the protocol. Markets have since reopened, but nine assets remain at zero LTV as a precaution.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;&lt;i&gt;The rapid response may support confidence in DeFi risk management, but it also shows that "immutable" protocols still rely on emergency intervention powers.&lt;/i&gt;&lt;/blockquote&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/muur_posts/3159</guid>
+      <pubDate>Mon, 02 Nov 2026 13:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uniswap absorbs Binance-hacker token dump without derailing uptrend – Link A wal</title>
+      <link>https://t.me/muur_posts/3158</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Uniswap absorbs Binance-hacker token dump without derailing uptrend – &lt;/b&gt;&lt;a href="https://coinmarketcap.com/community/articles/6ae5e9d787004138fc963979" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;A wallet linked to the Binance hacker sold millions of UNI tokens on-chain, including dumping $5M of PROM for only $71 in ETH in a thin pool. UNI still gained roughly 3% over 24 hours.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;&lt;i&gt;Underlying demand, partly tied to Uniswap's expanding TJAR fee-conversion program across seven chains, is outweighing sell pressure for now.&lt;/i&gt;&lt;/blockquote&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/muur_posts/3158</guid>
+      <pubDate>Mon, 02 Nov 2026 10:05:06 +0000</pubDate>
+    </item>
     <item>
       <title>Institutional investors pull funds from exchanges, spot ETFs show mixed flows – </title>
       <link>https://t.me/muur_posts/3157</link>
@@ -125,27 +146,6 @@
       <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Chainlink launches CustodySync, linking institutional custody to DeFi lending – &lt;/b&gt;&lt;a href="https://chain.link/blog/introducing-chainlink-custodysync" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Chainlink launched CustodySync, letting qualified custodians allow institutional clients to use custodied assets as DeFi lending collateral without transferring custody. Anchorage Digital is the launch partner.&lt;br/&gt;&lt;br/&gt;• Chainlink cited a ≈$700B digital custody market&lt;br/&gt;• It also cited $80B+ in DeFi lending deposits as the addressable opportunity&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;&lt;i&gt;The integration could help bring more institutional capital into DeFi lending and support TVL over time.&lt;/i&gt;&lt;/blockquote&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">https://t.me/muur_posts/3140</guid>
       <pubDate>Tue, 27 Oct 2026 12:14:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>CFTC advances voluntary federal registration for crypto trading platforms – Link</title>
-      <link>https://t.me/muur_posts/3139</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;CFTC advances voluntary federal registration for crypto trading platforms – &lt;/b&gt;&lt;a href="https://x.com/ChairmanSelig/status/2114731762324586557" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;CFTC Chairman Mike Selig said the agency is pushing a voluntary federal registration regime for crypto trading platforms. The goal is to align crypto market protections with mature US derivatives market standards despite continued Congressional inaction on comprehensive legislation.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;&lt;i&gt;Incremental regulatory clarity could support institutional platform adoption, even if the regime is less binding than statutory rules.&lt;/i&gt;&lt;/blockquote&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/muur_posts/3139</guid>
-      <pubDate>Tue, 27 Oct 2026 09:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>22 companies now oppose OKX/ICE tokenized stock platform – Link Wells Fargo, Arm</title>
-      <link>https://t.me/muur_posts/3138</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;22 companies now oppose OKX/ICE tokenized stock platform – &lt;/b&gt;&lt;a href="https://www.reuters.com/legal/government/wells-fargo-intuit-others-object-their-shares-being-tokenized-regulatory-2026-10-23/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Wells Fargo, Arm Holdings, and Intuit joined the growing list of companies objecting to having their U.S.-listed shares tokenized on the OKX–Intercontinental Exchange joint venture platform. The total number of opponents now stands at 22, including Microsoft and Alphabet.&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;&lt;i&gt;The pushback points to continued institutional resistance toward equity tokenization and could slow adoption of this crypto-TradFi bridge product.&lt;/i&gt;&lt;/blockquote&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/muur_posts/3138</guid>
-      <pubDate>Mon, 26 Oct 2026 16:22:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oh guys, I’m so excited 🥂 Stacy’s Brain is now live – and you’re the first peopl</title>
-      <link>https://t.me/muur_posts/3137</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;i&gt;Oh guys, I’m so excited&lt;/i&gt; &lt;tg-emoji emoji-id="5284996144361922299"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA582.png')"&gt;&lt;b&gt;🥂&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Stacy’s Brain is now live – and you’re the first people to see it&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;What’s already live:&lt;br/&gt;&lt;br/&gt;• &lt;a href="https://stacysbrain.com/collections?utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_campaign=tg-stacysbrain-1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Collections&lt;/b&gt;&lt;/a&gt; → Compilations of actions based on evidence&lt;br/&gt;• &lt;a href="https://stacysbrain.com/explore?utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_campaign=tg-stacysbrain-1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Cards&lt;/b&gt;&lt;/a&gt; → Insights from marketing research (750+ already)&lt;br/&gt;• &lt;a href="https://stacysbrain.com/research?utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_campaign=tg-stacysbrain-1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Sources&lt;/b&gt;&lt;/a&gt; → The database of research we’ve studied&lt;br/&gt;• &lt;a href="https://stacysbrain.com/benchmarks?utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_campaign=tg-stacysbrain-1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Benchmarks&lt;/b&gt;&lt;/a&gt; → Interactive map of reported marketing benchmarks (CPC, CPM, etc.)&lt;br/&gt;&lt;br/&gt;My ambition is to turn Stacy’s Brain into &lt;b&gt;the hub of marketing evidence&lt;/b&gt; – so next time you build your GTM or growth strat, you have a reliable source to build on.&lt;br/&gt;&lt;br/&gt;Each card includes &lt;b&gt;methodology, sample, and timestamp&lt;/b&gt;s, plus “good for” and “not for” notes – so you always know which insights are directional vs. backed by independent experiments.&lt;br/&gt;&lt;br/&gt;I recommend starting with the&lt;a href="https://stacysbrain.com/collections/how-to-earn-ai-search-citations?utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_campaign=tg-stacysbrain-1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt; “How to earn AI search citations” &lt;/b&gt;&lt;/a&gt;collection. It already lays out an optimization pipeline for your AEO/GEO strategy.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;PS: You’re the first cohort of users I’m inviting, so please allow cookies – and let me know if you run into bugs or have suggestions. This is v0.1, and I want to build it together with you.&lt;/i&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/muur_posts/3137</guid>
-      <pubDate>Mon, 26 Oct 2026 14:11:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

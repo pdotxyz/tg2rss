@@ -1,12 +1,61 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Telegram: KissmeBabyFeedTwitter</title>
+    <title>KissmeBabyFeedTwitter</title>
     <link>https://t.me/s/KissmeBabyFeedTwitter</link>
     <description>Posts from t.me/KissmeBabyFeedTwitter</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 22:43:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:45:16 +0000</lastBuildDate>
+    <item>
+      <title>‌ ✖️ Geek SearXNG 一点都不好用，试试 RustXNG，用 Rust 编写的自托管搜索与取文本引擎，HTTP 接口与 SearXNG 兼容，一次</title>
+      <link>https://t.me/KissmeBabyFeedTwitter/24398</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/sahenjp/RustXNG" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;‌&lt;/a&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/geekbb/status/2117248228605526511" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Geek&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;SearXNG 一点都不好用，试试 RustXNG，用 Rust 编写的自托管搜索与取文本引擎，HTTP 接口与 SearXNG 兼容，一次请求同时返回排序结果和页面正文，top 5 页面合计约 32,000 字符。&lt;br/&gt;&lt;br/&gt;移植了 SearXNG 的 226 种引擎类型，352 条设置项、默认启用 180 种，并为每个引擎做超时、退避停用和自动恢复。&lt;br/&gt;&lt;br/&gt;&lt;a href="https://github.com/sahenjp/RustXNG" rel="noopener" target="_blank"&gt;https://github.com/sahenjp/RustXNG&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24398</guid>
+      <pubDate>Mon, 02 Nov 2026 14:45:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>✖️ 梁 我擦...且玩且珍惜吧。 或许以后泡泡浴， 真的会成为历史的... --------- 🔀 Routify : 自动在 Telegram 聊天间转发消</title>
+      <link>https://t.me/KissmeBabyFeedTwitter/24397</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/iam678/status/2117194486346625529" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;梁&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;我擦...且玩且珍惜吧。&lt;br/&gt;或许以后泡泡浴，&lt;br/&gt;真的会成为历史的...&lt;br/&gt;---------&lt;br/&gt;&lt;tg-emoji emoji-id="5807880911974308745"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9480.png')"&gt;&lt;b&gt;🔀&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://t.me/RoutifyBot?start=from-aximo" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Routify&lt;/b&gt;&lt;/a&gt;: 自动在 Telegram 聊天间转发消息。&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24397</guid>
+      <pubDate>Mon, 02 Nov 2026 14:45:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>✖️ Geek 平时叫你们不要用国产机，你不以为然，来查查到底谁把定位和通讯录往外送，插上 USB 跑一遍 adb 扫描，就会出一份带域名和回滚命令的清单。 h</title>
+      <link>https://t.me/KissmeBabyFeedTwitter/24396</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/geekbb/status/2117122916672475502" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Geek&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;平时叫你们不要用国产机，你不以为然，来查查到底谁把定位和通讯录往外送，插上 USB 跑一遍 adb 扫描，就会出一份带域名和回滚命令的清单。&lt;br/&gt;&lt;br/&gt;&lt;a href="https://github.com/Verlintas/NOIR" rel="noopener" target="_blank"&gt;https://github.com/Verlintas/NOIR&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24396</guid>
+      <pubDate>Mon, 02 Nov 2026 06:44:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>✖️ Geek 把 Peterson 写作指南的九道工序压进 Claude Code，按九步写作流程慢写文章，并用脚本卡住每一步，防止模型跳步、写成套话。 ht</title>
+      <link>https://t.me/KissmeBabyFeedTwitter/24395</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/geekbb/status/2117110702968066291" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Geek&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;把 Peterson 写作指南的九道工序压进 Claude Code，按九步写作流程慢写文章，并用脚本卡住每一步，防止模型跳步、写成套话。&lt;br/&gt;&lt;br/&gt;&lt;a href="https://github.com/lucasbabur/jp-essay" rel="noopener" target="_blank"&gt;https://github.com/lucasbabur/jp-essay&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24395</guid>
+      <pubDate>Mon, 02 Nov 2026 06:44:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>✖️ Geek 哈哈哈，支付宝 YYDS.</title>
+      <link>https://t.me/KissmeBabyFeedTwitter/24394</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/geekbb/status/2117082839909011639" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Geek&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;哈哈哈，支付宝 YYDS.&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24394</guid>
+      <pubDate>Mon, 02 Nov 2026 06:44:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>✖️ 硅谷王川 Chuan 和朋友聚会，发现两个明显问题： 年长一点的，很多缺乏肌肉训练，看起来比较干瘪。缺乏肌肉是健康长寿的最大风险因子，会导致一系列严重的问</title>
+      <link>https://t.me/KissmeBabyFeedTwitter/24393</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/Svwang1/status/2117080910915088593" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;硅谷王川 Chuan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;和朋友聚会，发现两个明显问题：&lt;br/&gt;&lt;br/&gt;年长一点的，很多缺乏肌肉训练，看起来比较干瘪。缺乏肌肉是健康长寿的最大风险因子，会导致一系列严重的问题。&lt;br/&gt;&lt;br/&gt;年纪轻一点的，有些人体姿有问题，不够挺拔，佝偻着背，大概是长期伏案用电脑的习惯所致。&lt;br/&gt;&lt;br/&gt;但这些事不好当面说，否则让人扫兴。&lt;br/&gt;&lt;br/&gt;如果人们能把每天挖空心思去赚钱的精力，分配 30 分钟在力量训练和形体训练上，生活质量会大大提高，这是多少钱也买不来的。&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24393</guid>
+      <pubDate>Mon, 02 Nov 2026 06:44:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>✖️ 梁 昨晚和一个成人博主妹子聊了一会， 看了一眼订阅账单， 也就够个维持基本生活。 真的感觉， 你脱都脱了，做都做了，展示都展示了， 然后月收不到三万美金.</title>
+      <link>https://t.me/KissmeBabyFeedTwitter/24392</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/iam678/status/2117074979674329479" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;梁&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;昨晚和一个成人博主妹子聊了一会，&lt;br/&gt;看了一眼订阅账单，&lt;br/&gt;也就够个维持基本生活。&lt;br/&gt;真的感觉，&lt;br/&gt;你脱都脱了，做都做了，展示都展示了，&lt;br/&gt;然后月收不到三万美金...&lt;br/&gt;那你忙活的还有什么意思呢？&lt;br/&gt;---------&lt;br/&gt;&lt;tg-emoji emoji-id="5807880911974308745"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9480.png')"&gt;&lt;b&gt;🔀&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://t.me/RoutifyBot?start=from-aximo" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Routify&lt;/b&gt;&lt;/a&gt;: 自动在 Telegram 聊天间转发消息。&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24392</guid>
+      <pubDate>Mon, 02 Nov 2026 06:44:05 +0000</pubDate>
+    </item>
     <item>
       <title>✖️ The Hustle Miniso puts roughly 100 new products on its shelves every week. Th</title>
       <link>https://t.me/KissmeBabyFeedTwitter/24391</link>
@@ -76,48 +125,6 @@
       <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/iam678/status/2116521608458428454" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;梁&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;哎！今天见这个妹子不错哎！&lt;/div&gt;</description>
       <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24379</guid>
       <pubDate>Sat, 31 Oct 2026 14:40:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>✖️ Geek Xray-core 紧急安全更新 Linux 内核新漏洞 CVE-2026-98432（CVSS 9.8）：IPv4 TCP 释放后使用，已有远</title>
-      <link>https://t.me/KissmeBabyFeedTwitter/24378</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/geekbb/status/2116526532881744310" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Geek&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Xray-core 紧急安全更新&lt;br/&gt;&lt;br/&gt;Linux 内核新漏洞 CVE-2026-98432（CVSS 9.8）：IPv4 TCP 释放后使用，已有远程拿到 root 的 PoC。而 Go 1.24+ 默认给 TCP 监听开 MPTCP，用 Go 写的代理服务端（Xray、Caddy 等）首当其冲。&lt;br/&gt;&lt;br/&gt;本版直接把 MPTCP 默认关掉，显著缩小攻击面。v26.10.29 已撤版，请尽快升级。&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24378</guid>
-      <pubDate>Sat, 31 Oct 2026 14:39:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>✖️ Geek 还真是，最开始就虾哥虾哥、后来抛弃虾哥就用Hermes、Hermes，现在又抛弃Hermes用Grokbot、Openbot......</title>
-      <link>https://t.me/KissmeBabyFeedTwitter/24377</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/geekbb/status/2116491530529808563" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Geek&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;还真是，最开始就虾哥虾哥、后来抛弃虾哥就用Hermes、Hermes，现在又抛弃Hermes用Grokbot、Openbot......&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24377</guid>
-      <pubDate>Sat, 31 Oct 2026 14:39:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>✖️ Geek NB 一个用 Lua 程序化生成水彩风格植物边饰的 LuaLaTeX 宏包 可根据页面文本在页边距里生长出茎、叶、花、蜜蜂蝴蝶等装饰，全部由 L</title>
-      <link>https://t.me/KissmeBabyFeedTwitter/24376</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/geekbb/status/2116429453962383474" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Geek&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;NB 一个用 Lua 程序化生成水彩风格植物边饰的 LuaLaTeX 宏包&lt;br/&gt;&lt;br/&gt;可根据页面文本在页边距里生长出茎、叶、花、蜜蜂蝴蝶等装饰，全部由 Lua 计算、PGF 绘制，不含任何图片。&lt;br/&gt;&lt;br/&gt;&lt;a href="https://github.com/wn-mitch/tikz-flora" rel="noopener" target="_blank"&gt;https://github.com/wn-mitch/tikz-flora&lt;/a&gt;&lt;br/&gt;---------&lt;br/&gt;&lt;tg-emoji emoji-id="5909015791088439934"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E99.png')"&gt;&lt;b&gt;🎙&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt;&lt;a href="https://t.me/voice_remover_bot?start=from-aximo" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Voice Remover Bot&lt;/b&gt;&lt;/a&gt; - 将任何歌曲中的人声与音乐分离。&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24376</guid>
-      <pubDate>Sat, 31 Oct 2026 14:39:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>✖️ Geek 我觉得这种表格完全可以把 WorkBuddy 和 Qoder 加入对比了，最近它们赠送的 DeepSeek V4.1 Flash 足够我用很长一</title>
-      <link>https://t.me/KissmeBabyFeedTwitter/24375</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/geekbb/status/2116372799619219803" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Geek&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;我觉得这种表格完全可以把 WorkBuddy 和 Qoder 加入对比了，最近它们赠送的 DeepSeek V4.1 Flash 足够我用很长一段时间，用完之后，我真会认真考虑它们。&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24375</guid>
-      <pubDate>Sat, 31 Oct 2026 03:36:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>✖️ Geek 做中文页面时，标题被拆成 为什／么、书名在窄屏碎成几截、数字和单位硬拆两行 章法这个项目把这套排印判断交给智能体，并在交付前用浏览器实测断行、溢</title>
-      <link>https://t.me/KissmeBabyFeedTwitter/24373</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/geekbb/status/2116333432506929206" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Geek&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;做中文页面时，标题被拆成 为什／么、书名在窄屏碎成几截、数字和单位硬拆两行&lt;br/&gt;&lt;br/&gt;章法这个项目把这套排印判断交给智能体，并在交付前用浏览器实测断行、溢出和控件状态。&lt;br/&gt;&lt;br/&gt;&lt;a href="https://github.com/dososo/blcaptain-zhangfa" rel="noopener" target="_blank"&gt;https://github.com/dososo/blcaptain-zhangfa&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24373</guid>
-      <pubDate>Sat, 31 Oct 2026 01:01:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>✖️ The Hustle This is how you order at Luckin Coffee: no line, no register. Just</title>
-      <link>https://t.me/KissmeBabyFeedTwitter/24372</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/TheHustle/status/2116329939658231907" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;The Hustle&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;This is how you order at Luckin Coffee: no line, no register. Just a QR code, and your drink waiting for you on a shelf.&lt;br/&gt;&lt;br/&gt;In 2020, China had over 100,000 coffee shops competing for the same customers. Starbucks was the clear leader.&lt;br/&gt;&lt;br/&gt;But long lines and premium prices left a gap, and &lt;a href="https://twitter.com/luckincoffeeus" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;@luckincoffeeus&lt;/a&gt; saw it. The company wrote that China's coffee market was too expensive and inconvenient.&lt;br/&gt;&lt;br/&gt;So Luckin went 100% cashier-less.&lt;br/&gt;&lt;br/&gt;Now it's bringing that model to the US. Luckin opened its first American store in 2025 and has 20 New York locations in just over a year.&lt;br/&gt;&lt;br/&gt;Meanwhile, Starbucks announced in 2025 it was closing 80 to 90 of its US pickup locations, calling them "too transactional, not enough warmth."&lt;br/&gt;&lt;br/&gt;Starbucks said it needs more human connection. Luckin said, "Here's a QR code."&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24372</guid>
-      <pubDate>Sat, 31 Oct 2026 00:51:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

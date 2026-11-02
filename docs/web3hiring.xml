@@ -1,12 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Telegram: web3hiring</title>
+    <title>web3hiring</title>
     <link>https://t.me/s/web3hiring</link>
     <description>Posts from t.me/web3hiring</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 19:33:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:33:31 +0000</lastBuildDate>
+    <item>
+      <title>- B2C2 is hiring Onboarding - KYC Onboarding - Senior Associate - Kraken is hiri</title>
+      <link>https://t.me/web3hiring/16600</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;- B2C2 is hiring &lt;a href="https://hashtagweb3.com/ob9?utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_campaign=web3hiring" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Onboarding - KYC Onboarding - Senior Associate&lt;/a&gt;&lt;br/&gt;- Kraken is hiring &lt;a href="https://hashtagweb3.com/rs13?utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_campaign=web3hiring" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Software Engineer II - Rust - Pro&lt;/a&gt;&lt;br/&gt;- Flow Traders is hiring &lt;a href="https://hashtagweb3.com/eng588?utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_campaign=web3hiring" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Data Platform Engineer&lt;/a&gt;&lt;br/&gt;- Ramp is hiring &lt;a href="https://hashtagweb3.com/mgr220?utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_campaign=web3hiring" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Manager, Enterprise Technical Consulting&lt;/a&gt;&lt;br/&gt;- Ellipsis Labs is hiring &lt;a href="https://hashtagweb3.com/str?utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_campaign=web3hiring" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Head of Strategy&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/web3hiring/16600</guid>
+      <pubDate>Mon, 02 Nov 2026 11:33:31 +0000</pubDate>
+    </item>
     <item>
       <title>- Crypto.com is hiring Senior/ Principal Product Manager, Trading(Crypto.com App</title>
       <link>https://t.me/web3hiring/16599</link>
@@ -139,13 +146,6 @@
       <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;1,500+ have visited our Devcon/IBW side event list so far: &lt;a href="http://hashtagweb3.com/devcon" rel="noopener" target="_blank"&gt;hashtagweb3.com/devcon&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;DM to get your event listed or to book a featured listing: &lt;a href="https://x.com/hashtag_web3/status/2115424067218219057" rel="noopener" target="_blank"&gt;https://x.com/hashtag_web3/status/2115424067218219057&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">https://t.me/web3hiring/16579</guid>
       <pubDate>Wed, 28 Oct 2026 12:46:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>- Ripple is hiring Senior Sales Manager - Stripe is hiring Account Executive, Pr</title>
-      <link>https://t.me/web3hiring/16578</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;- Ripple is hiring &lt;a href="https://hashtagweb3.com/sls329?utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_campaign=web3hiring" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Senior Sales Manager&lt;/a&gt;&lt;br/&gt;- Stripe is hiring &lt;a href="https://hashtagweb3.com/pm305?utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_campaign=web3hiring" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Account Executive, Product Sales, Billing (Grower)&lt;/a&gt;&lt;br/&gt;- Aspora is hiring &lt;a href="https://hashtagweb3.com/cmp56?utm_source=telegram&amp;amp;amp;utm_medium=social&amp;amp;amp;utm_campaign=web3hiring" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Global Regulatory Compliance Lead&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/web3hiring/16578</guid>
-      <pubDate>Wed, 28 Oct 2026 11:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

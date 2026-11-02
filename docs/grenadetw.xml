@@ -1,12 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Telegram: grenadetw</title>
+    <title>grenadetw</title>
     <link>https://t.me/s/grenadetw</link>
     <description>Posts from t.me/grenadetw</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 09:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:50:50 +0000</lastBuildDate>
+    <item>
+      <title>【 #分析 】幣安遭駭後，4 大 Perp DEX 誰的資金最安全？ 👉 https://btc.grenade.tw/Hqd0g 研究者深入分析 Lighte</title>
+      <link>https://t.me/grenadetw/5736</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;【&lt;a href="?q=%23%E5%88%86%E6%9E%90"&gt;#分析&lt;/a&gt;】幣安遭駭後，4 大 Perp DEX 誰的資金最安全？&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://btc.grenade.tw/Hqd0g" rel="noopener" target="_blank"&gt;https://btc.grenade.tw/Hqd0g&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;研究者深入分析 Lighter、Hyperliquid、Aster、Variational 四家 Perp DEX 的鏈上合約與資金安全機制：Lighter 支援強制提款，但仍有合約升級風險；Hyperliquid 約 86% 的 USDC 存放於 Coinbase 單鑰錢包；Aster 提款須經營運方簽批；Variational 任一把營運金鑰都能轉走用戶資金，且合約未設金額上限。&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')"&gt;&lt;b&gt;🌟&lt;/b&gt;&lt;/i&gt; &lt;a href="https://btc.grenade.tw/8O8ZY" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;限時獨家！新戶刷 Etherfi 享 10% 回饋&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/grenadetw/5736</guid>
+      <pubDate>Mon, 02 Nov 2026 09:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>【 #觀點 】什麼樣的代幣能穿越牛熊？兩大資產類型決定長期價值 👉🏻 https://btc.grenade.tw/fGPgi 加密貨幣市場充斥短線炒作與快速拋</title>
+      <link>https://t.me/grenadetw/5735</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;【&lt;a href="?q=%23%E8%A7%80%E9%BB%9E"&gt;#觀點&lt;/a&gt;】什麼樣的代幣能穿越牛熊？兩大資產類型決定長期價值&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189F09F8FBB.png')"&gt;&lt;b&gt;👉🏻&lt;/b&gt;&lt;/i&gt; &lt;a href="https://btc.grenade.tw/fGPgi" rel="noopener" target="_blank"&gt;https://btc.grenade.tw/fGPgi&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;加密貨幣市場充斥短線炒作與快速拋售，真正值得長期持有的代幣有哪些？加密研究者 donn 提出兩大分類：「信仰資產」與「現金流資產」，前者依靠社群共識與市場信仰支撐價值，後者則重視實際獲利、代幣回購與收益分配。&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')"&gt;&lt;b&gt;🌟&lt;/b&gt;&lt;/i&gt; &lt;a href="https://btc.grenade.tw/8O8ZY" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;限時獨家！新戶刷 Etherfi 享 10% 回饋&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/grenadetw/5735</guid>
+      <pubDate>Mon, 02 Nov 2026 04:40:01 +0000</pubDate>
+    </item>
     <item>
       <title>【 #教學 】AI 架站必學，免費部署網站、網域與資料庫一次搞定 👉 https://btc.grenade.tw/hTsYB Cloudflare 整合網站部</title>
       <link>https://t.me/grenadetw/5734</link>
@@ -132,20 +146,6 @@
       <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938A.png')"&gt;&lt;b&gt;📊&lt;/b&gt;&lt;/i&gt; Grenade｜每日市場情報&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B9F09F87BC.png')"&gt;&lt;b&gt;🇹🇼&lt;/b&gt;&lt;/i&gt; 台股&lt;/b&gt;&lt;br/&gt;• 台股上週重挫1069點，失守季線&lt;br/&gt;• 金管會研議颱風天股市不休市，尚無時程&lt;br/&gt;&lt;br/&gt;────────&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"&gt;&lt;b&gt;🇺🇸&lt;/b&gt;&lt;/i&gt; 美股&lt;/b&gt;&lt;br/&gt;• 美削減中東4使館人力，川普揚言再對伊朗動武&lt;br/&gt;• 金價跌破4000美元，創逾2個月低&lt;br/&gt;• 下週觀察：29日PCE、GDP與歐央行，30日日銀&lt;br/&gt;&lt;br/&gt;────────&lt;br/&gt;&lt;br/&gt;&lt;b&gt;₿ 加密貨幣&lt;/b&gt;&lt;br/&gt;• 比特幣跌破8萬創逾月低，一日爆倉逾8億美元&lt;br/&gt;• 阿根廷法院撤銷米雷LIBRA幣詐欺案&lt;br/&gt;• 富國銀行、Arm等拒上OKXICE代幣股，累計22家&lt;br/&gt;&lt;br/&gt;────────&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA496.png')"&gt;&lt;b&gt;🤖&lt;/b&gt;&lt;/i&gt; AI&lt;/b&gt;&lt;br/&gt;• Anthropic揭Mythos 5測試中偽造帳號推惡意碼&lt;br/&gt;• 亞馬遜：AWS明年算力已大致售罄&lt;br/&gt;• 馬斯克：X將推長按讚、經X Money送1美元&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')"&gt;&lt;b&gt;🌟&lt;/b&gt;&lt;/i&gt; &lt;a href="https://btc.grenade.tw/8O8ZY" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;限時獨家！新戶刷 Etherfi 享 10% 回饋&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">https://t.me/grenadetw/5717</guid>
       <pubDate>Sun, 25 Oct 2026 08:05:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>【 #教學 】Lighter 交易所：零手續費永續 DEX 入金、出金、積分 👉🏻 https://btc.grenade.tw/wZIlP Lighter 是</title>
-      <link>https://t.me/grenadetw/5716</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;【&lt;a href="?q=%23%E6%95%99%E5%AD%B8"&gt;#教學&lt;/a&gt;】Lighter 交易所：零手續費永續 DEX 入金、出金、積分&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189F09F8FBB.png')"&gt;&lt;b&gt;👉🏻&lt;/b&gt;&lt;/i&gt; &lt;a href="https://btc.grenade.tw/wZIlP" rel="noopener" target="_blank"&gt;https://btc.grenade.tw/wZIlP&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Lighter 是建立在以太坊 Layer 2 的永續合約 DEX，主打 Standard 帳戶零交易手續費，支援錢包或 Email 登入、USDC 入出金，並提供 LIT 質押與積分機制。近期另推出獨立的 Robinhood Chain 版本，採用 USDG 交易，透過 Robinhood Wallet 下單可獲得最高 2 倍積分。&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')"&gt;&lt;b&gt;🌟&lt;/b&gt;&lt;/i&gt; 交易所總覽：&lt;a href="https://btc.grenade.tw/k6guC" rel="noopener" target="_blank"&gt;https://btc.grenade.tw/k6guC&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/grenadetw/5716</guid>
-      <pubDate>Sun, 25 Oct 2026 06:02:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>📊 Grenade｜每日市場情報 🇹🇼 台股 • 下週觀察：27日復市，週選結算順延同日 • 台積電ADR週五反彈1.5%，費半止跌收紅 • 外資10月賣超逾8</title>
-      <link>https://t.me/grenadetw/5715</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938A.png')"&gt;&lt;b&gt;📊&lt;/b&gt;&lt;/i&gt; Grenade｜每日市場情報&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B9F09F87BC.png')"&gt;&lt;b&gt;🇹🇼&lt;/b&gt;&lt;/i&gt; 台股&lt;/b&gt;&lt;br/&gt;• 下週觀察：27日復市，週選結算順延同日&lt;br/&gt;• 台積電ADR週五反彈1.5%，費半止跌收紅&lt;br/&gt;• 外資10月賣超逾8200億，公股、投信接手&lt;br/&gt;&lt;br/&gt;────────&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"&gt;&lt;b&gt;🇺🇸&lt;/b&gt;&lt;/i&gt; 美股&lt;/b&gt;&lt;br/&gt;• 道瓊挫1.2%，標普、那指連2週收黑&lt;br/&gt;• 據報SpaceX洽8萬座基地台，AT&amp;amp;T、T-Mobile挫近8%&lt;br/&gt;• 布蘭特油再漲3%至116.7美元，能源股創高&lt;br/&gt;• 下週觀察：28日Fed決議，微軟、Google同晚財報&lt;br/&gt;&lt;br/&gt;────────&lt;br/&gt;&lt;br/&gt;&lt;b&gt;₿ 加密貨幣&lt;/b&gt;&lt;br/&gt;• 比特幣守8.08萬，現貨ETF週四流出6.36億美元&lt;br/&gt;• Initia遭駭急停鏈，駭客鑄幣套走逾260萬美元&lt;br/&gt;• Fireblocks否認Visa擬25億美元收購傳聞&lt;br/&gt;• SoFi推年息4.4%代幣化存款，可換穩定幣&lt;br/&gt;• 強勢幣：M漲逾6%、AKE漲逾5%，WLD挫近14%&lt;br/&gt;&lt;br/&gt;────────&lt;br/&gt;&lt;br/&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA496.png')"&gt;&lt;b&gt;🤖&lt;/b&gt;&lt;/i&gt; AI&lt;/b&gt;&lt;br/&gt;• 月之暗面發Kimi K3.1 Pro，智能指數排第4&lt;br/&gt;• Claude付費版下週起預設自動模式&lt;br/&gt;• Anthropic、OpenAI代理標準併入AAIF基金會&lt;br/&gt;• Grok Imagine推AI短劇《奧德賽》首集&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')"&gt;&lt;b&gt;🌟&lt;/b&gt;&lt;/i&gt; &lt;a href="https://btc.grenade.tw/8O8ZY" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;限時獨家！新戶刷 Etherfi 享 10% 回饋&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/grenadetw/5715</guid>
-      <pubDate>Sat, 24 Oct 2026 02:12:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
