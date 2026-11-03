@@ -3,7 +3,8 @@ name: tg2rss
 
 on:
   schedule:
-    - cron: "21 * * * *"
+    - cron: "17 * * * *"
+      timezone: "America/Los_Angeles"
   workflow_dispatch:
 
 permissions:
