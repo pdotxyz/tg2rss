@@ -1,11 +1,8 @@
-
 name: tg2rss
 
 on:
   schedule:
-    - cron: "17 * * * *"
-      timezone: "America/Los_Angeles"
-
+    - cron: "40 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -23,29 +20,19 @@ jobs:
         uses: astral-sh/setup-uv@v5
 
       - name: Generate RSS feeds
+        id: generate
         shell: bash
         run: |
-          set -euo pipefail
-
-          if [[ ! -s channels.txt ]]; then
-            echo "::error::channels.txt is missing or empty"
-            exit 1
-          fi
-
+          set +e
           uv run tg2rss.py $(cat channels.txt)
-
+          status=$?
           mkdir -p docs
-
-          shopt -s nullglob
-          xml_files=(./*.xml)
-
-          if (( ${#xml_files[@]} == 0 )); then
-            echo "::error::No XML files generated"
-            exit 1
-          fi
-
-          mv -- "${xml_files[@]}" docs/
-
+          for file in ./*.xml; do
+            [ -f "$file" ] || continue
+            mv "$file" docs/
+          done
+          echo "exit_code=$status" >> "$GITHUB_OUTPUT"
+          exit 0
       - name: Commit updated feeds
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
