@@ -6,7 +6,14 @@
     <description>Posts from t.me/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Oct 2026 11:28:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:46:23 +0000</lastBuildDate>
+    <item>
+      <title>Git 碰到 PDF、图片、字体、压缩包，很多时候只能看到一句 Binary files differ。 OmniDiff 是一个开源文件对比工具，会根据文件内</title>
+      <link>https://t.me/abskoop/13107</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Git 碰到 PDF、图片、字体、压缩包，很多时候只能看到一句 Binary files differ。&lt;br/&gt;&lt;br/&gt;OmniDiff 是一个开源文件对比工具，会根据文件内容选择不同的 Diff 方式：&lt;br/&gt;&lt;br/&gt;代码用 Tree-sitter 做结构化比较，图片看像素变化，PDF 定位页面差异，字体能看到 Glyph，压缩包还可以继续拆开看内部文件。&lt;br/&gt;&lt;br/&gt;目前支持 25 种代码和结构化文本类型，也能接入 Git / Jujutsu，支持 headless 和 JSON 输出。&lt;br/&gt;&lt;br/&gt;ZH&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/98338/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/98338/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;EN&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/en/98352/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/en/98352/&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/abskoop/13107</guid>
+      <pubDate>Tue, 03 Nov 2026 14:46:23 +0000</pubDate>
+    </item>
     <item>
       <title>Google Flights MCP 现在可以直接接进 Claude 了。 开源项目 Fli 可以让 Claude 直接查 Google Flights：搜指定</title>
       <link>https://t.me/abskoop/13106</link>
@@ -139,13 +146,6 @@
       <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Magic Eraser ：一款在线 AI 图片消除工具。&lt;br/&gt;&lt;br/&gt;上传照片后，用画笔涂掉路人、文字、电线、垃圾桶或其他不想保留的物体，AI 会自动补全背景。&lt;br/&gt;&lt;br/&gt;适合日常修图、旅行照清理、电商商品图、房源照片和社交媒体素材等等&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/16213/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/16213/&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">https://t.me/abskoop/13088</guid>
       <pubDate>Wed, 30 Sep 2026 11:53:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inpaint：专门用来清理照片里多余内容的图片修复工具 圈出水印、日期、路人、电线、划痕，它会参考周围像素把缺口补上，不走提示词生成。 桌面版有 Donor </title>
-      <link>https://t.me/abskoop/13087</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Inpaint：专门用来清理照片里多余内容的图片修复工具&lt;br/&gt;&lt;br/&gt;圈出水印、日期、路人、电线、划痕，它会参考周围像素把缺口补上，不走提示词生成。  &lt;br/&gt;&lt;br/&gt;桌面版有 Donor Area、Guide Lines 和批量处理，批量图片要同尺寸、同方向。&lt;br/&gt;&lt;br/&gt;支持 Windows / macOS，另外也有 iOS 版。  &lt;br/&gt;&lt;br/&gt;只建议处理自己有权使用的图片。  &lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/25495/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/25495/&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/abskoop/13087</guid>
-      <pubDate>Tue, 29 Sep 2026 09:47:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
