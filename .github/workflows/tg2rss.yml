@@ -1,9 +1,15 @@
+
 name: tg2rss
 
 on:
   schedule:
-    - cron: "40 * * * *"
+    - cron: "17 * * * *"
+      timezone: "America/Los_Angeles"
+
   workflow_dispatch:
+
+  repository_dispatch:
+    types: [hourly-rss]
 
 permissions:
   contents: write
@@ -24,17 +30,31 @@ jobs:
         shell: bash
         run: |
           set +e
-          uv run tg2rss.py $(cat channels.txt)
-          status=$?
+
+          uv run tg2rss.py $(cat channels.txt) 2>&1 | tee tg2rss.log
+          status=${PIPESTATUS[0]}
+
+          success_count=$(grep -c ': wrote ' tg2rss.log || true)
+
           mkdir -p docs
+
           for file in ./*.xml; do
             [ -f "$file" ] || continue
             mv "$file" docs/
           done
+
           echo "exit_code=$status" >> "$GITHUB_OUTPUT"
+          echo "success_count=$success_count" >> "$GITHUB_OUTPUT"
+          echo "Successful channels: $success_count" >> "$GITHUB_STEP_SUMMARY"
+
           exit 0
+
       - name: Commit updated feeds
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update Telegram RSS feeds"
           file_pattern: "docs/*.xml"
+
+      - name: Fail only if all channels failed
+        if: steps.generate.outputs.success_count == '0'
+        run: exit 1
