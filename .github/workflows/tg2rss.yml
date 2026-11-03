@@ -3,13 +3,9 @@ name: tg2rss
 
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "33 * * * *"
       timezone: "America/Los_Angeles"
-
   workflow_dispatch:
-
-  repository_dispatch:
-    types: [hourly-rss]
 
 permissions:
   contents: write
