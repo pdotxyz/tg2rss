@@ -24,6 +24,10 @@ jobs:
 
       - name: Install uv
         uses: astral-sh/setup-uv@v5
+      
+      - name: Install Python dependencies
+        run: |
+          uv pip install --system requests beautifulsoup4 feedgen
 
       - name: Generate RSS feeds
         id: generate
