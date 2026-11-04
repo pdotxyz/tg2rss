@@ -6,7 +6,14 @@
     <description>Posts from t.me/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 14:46:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:08:36 +0000</lastBuildDate>
+    <item>
+      <title>用 AI 生成 CAD 模型，还能修改尺寸、导出 STEP 文件。 开源项目 Text-to-CAD 支持 Claude Code、Codex、Cursor，让</title>
+      <link>https://t.me/abskoop/13108</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;用 AI 生成 CAD 模型，还能修改尺寸、导出 STEP 文件。&lt;br/&gt;&lt;br/&gt;开源项目 Text-to-CAD 支持 Claude Code、Codex、Cursor，让 AI Agent 通过 Python + build123d 生成参数化 CAD 模型。&lt;br/&gt;&lt;br/&gt;比如做一块带螺丝孔的安装板，长度从 60mm 改成 80mm，修改参数就能重新生成，不用从头画。&lt;br/&gt;&lt;br/&gt;与普通文生 3D 工具不同，它保留可编辑的建模脚本，在本地构建 CAD 实体，支持 STEP、STL、3MF 导出。&lt;br/&gt;&lt;br/&gt;适合机械零件设计、产品原型和 3D 打印。&lt;br/&gt;&lt;br/&gt;ZH&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;&lt;a href="https://www.ahhhhfs.com/98363/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/98363/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;EN&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/en/98381/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/en/98381/&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/abskoop/13108</guid>
+      <pubDate>Wed, 04 Nov 2026 16:08:36 +0000</pubDate>
+    </item>
     <item>
       <title>Git 碰到 PDF、图片、字体、压缩包，很多时候只能看到一句 Binary files differ。 OmniDiff 是一个开源文件对比工具，会根据文件内</title>
       <link>https://t.me/abskoop/13107</link>
@@ -139,13 +146,6 @@
       <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;ImgAI ：一个在线 AI 图片与视频创作平台&lt;br/&gt;&lt;br/&gt;支持 AI 图片生成、照片编辑、产品图、虚拟试穿和短视频生成，集成 GPT Image、Nano Banana、FLUX、Seedance、MiniMax 等模型。&lt;br/&gt;&lt;br/&gt;做电商素材、商品图和短视频都可以直接在浏览器里完成。&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/61395/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/61395/&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">https://t.me/abskoop/13089</guid>
       <pubDate>Fri, 02 Oct 2026 16:22:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Magic Eraser ：一款在线 AI 图片消除工具。 上传照片后，用画笔涂掉路人、文字、电线、垃圾桶或其他不想保留的物体，AI 会自动补全背景。 适合日常</title>
-      <link>https://t.me/abskoop/13088</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Magic Eraser ：一款在线 AI 图片消除工具。&lt;br/&gt;&lt;br/&gt;上传照片后，用画笔涂掉路人、文字、电线、垃圾桶或其他不想保留的物体，AI 会自动补全背景。&lt;br/&gt;&lt;br/&gt;适合日常修图、旅行照清理、电商商品图、房源照片和社交媒体素材等等&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/16213/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/16213/&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/abskoop/13088</guid>
-      <pubDate>Wed, 30 Sep 2026 11:53:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
