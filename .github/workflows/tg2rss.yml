@@ -5,9 +5,7 @@ on:
   schedule:
     - cron: "51 * * * *"
       timezone: "America/Los_Angeles"
-
   workflow_dispatch:
-
   repository_dispatch:
     types: [hourly-rss]
 
@@ -24,24 +22,17 @@ jobs:
 
       - name: Install uv
         uses: astral-sh/setup-uv@v5
-      
-      - name: Install Python dependencies
-        run: |
-          uv pip install --system requests beautifulsoup4 feedgen
 
       - name: Generate RSS feeds
         id: generate
         shell: bash
         run: |
           set +e
-
           uv run --with requests --with beautifulsoup4 --with feedgen tg2rss.py $(cat channels.txt) 2>&1 | tee tg2rss.log
           status=${PIPESTATUS[0]}
-
           success_count=$(grep -c ': wrote ' tg2rss.log || true)
 
           mkdir -p docs
-
           for file in ./*.xml; do
             [ -f "$file" ] || continue
             mv "$file" docs/
@@ -50,7 +41,6 @@ jobs:
           echo "exit_code=$status" >> "$GITHUB_OUTPUT"
           echo "success_count=$success_count" >> "$GITHUB_OUTPUT"
           echo "Successful channels: $success_count" >> "$GITHUB_STEP_SUMMARY"
-
           exit 0
 
       - name: Commit updated feeds
