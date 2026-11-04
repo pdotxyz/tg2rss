@@ -1,9 +1,12 @@
 
 #!/usr/bin/env python3
-
-# ///
+# /// script
 # requires-python = ">=3.9"
-# dependencies = ["requests", "beautifulsoup4", "feedgen"]
+# dependencies = [
+#   "requests",
+#   "beautifulsoup4",
+#   "feedgen",
+# ]
 # ///
 
 """tg2rss: turn public Telegram channels into RSS feeds, one <channel>.xml per channel.
