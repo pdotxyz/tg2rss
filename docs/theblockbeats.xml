@@ -6,7 +6,14 @@
     <description>Posts from t.me/theblockbeats</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 07:49:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 07:55:01 +0000</lastBuildDate>
+    <item>
+      <title>⚡️ 民主党拿下两院后，12月加息25个基点的概率升至76.9% BlockBeats 消息，11 月 4 日，随着民主党在中期选举中拿下两院控制权，据 CME</title>
+      <link>https://t.me/theblockbeats/204087</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"&gt;&lt;b&gt;⚡️&lt;/b&gt;&lt;/i&gt;民主党拿下两院后，12月加息25个基点的概率升至76.9%&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 4 日，随着民主党在中期选举中拿下两院控制权，据 CME「美联储观察」：美联储 12 月加息 25 个基点的概率升高至 76.9%，此前为 70%，维持利率不变概率为 23.1%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/375457?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/375457&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/theblockbeats/204087</guid>
+      <pubDate>Wed, 04 Nov 2026 07:55:01 +0000</pubDate>
+    </item>
     <item>
       <title>前飞书VP创业不到3个月收手，施凯文被曝转投阶跃负责Agent OS 动察 Beating AI 快讯，前飞书产品副总裁施凯文被曝加入阶跃星辰，担任合伙人，直接</title>
       <link>https://t.me/theblockbeats/204086</link>
@@ -139,13 +146,6 @@
       <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;中期选举后的美股反弹，能否跨过战争与油价这道关？&lt;a href="https://m.theblockbeats.info/news/64069?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt; - 链接&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">https://t.me/theblockbeats/204068</guid>
       <pubDate>Wed, 04 Nov 2026 06:48:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI测试工具e2e融资800万美元，开源首月下载超150万次 动察 Beating AI 快讯，YC 孵化的初创公司 TesterArmy 宣布更名为 e2e，</title>
-      <link>https://t.me/theblockbeats/204067</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;AI测试工具e2e融资800万美元，开源首月下载超150万次&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://t.me/OneMillion_AI" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;动察 Beating&lt;/a&gt; AI 快讯，YC 孵化的初创公司 TesterArmy 宣布更名为 e2e，完成 800 万美元种子轮融资。投资方包括 Credo Ventures、Point Nine，以及 Uber、Snowflake 的联合创始人。加上此前的 120 万美元 Pre-seed 轮，公司累计融资 920 万美元。&lt;br/&gt;&lt;br/&gt;e2e 是一款开源 AI 自动化测试工具，主要用来检查 AI 编写的软件能否正常运行。比如测试会员升级功能，开发者只需描述「将账号升级到 Pro」，AI 就会自动寻找入口、点击按钮、完成操作，再通过代码检查会员状态是否真的发生变化。底层结合了 Playwright 和 AI Agent，既能让 AI 理解页面、执行操作，也能用传统断言精确检查结果。&lt;br/&gt;&lt;br/&gt;它还会缓存已经验证过的操作步骤。下次运行相同测试时，优先直接回放，只有页面变化导致回放失败，才重新调用 AI。这样可以减少重复推理的成本，同时避免每次测试都依赖模型重新判断操作路径。&lt;br/&gt;&lt;br/&gt;团队此前主要经营闭源测试平台 TesterArmy，但客户无法将测试代码与项目一起管理，也不能自由更换模型或在本地运行测试。今年 10 月 1 日，团队将工具按 Apache 2.0 协议开源。官方称首月 npm 下载量超过 150 万次，GitHub 获得 1.2 万颗 Star，还有 60 名外部贡献者。&lt;br/&gt;&lt;br/&gt;公司计划 2027 年推出 e2e Cloud，为团队提供云端测试环境、模型和设备资源，现有开源框架将继续免费。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/375439?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/375439&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/theblockbeats/204067</guid>
-      <pubDate>Wed, 04 Nov 2026 06:46:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
