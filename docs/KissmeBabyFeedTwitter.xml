@@ -6,7 +6,14 @@
     <description>Posts from t.me/KissmeBabyFeedTwitter</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 06:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:51:36 +0000</lastBuildDate>
+    <item>
+      <title>✖️ Geek Open WebUI 是不是要向 Bot 发展了呀，Open WebUI v0.13.0 把聊天前端升级成能干活的 Agent 工作台。 模型拥</title>
+      <link>https://t.me/KissmeBabyFeedTwitter/24416</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/geekbb/status/2117899261912510477" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Geek&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Open WebUI 是不是要向 Bot 发展了呀，Open WebUI v0.13.0 把聊天前端升级成能干活的 Agent 工作台。&lt;br/&gt;&lt;br/&gt;模型拥有真实电脑，接上 Open Terminal 后，模型能在真实桌面上开应用、在共享浏览器里测试。&lt;br/&gt;&lt;br/&gt;一条 Docker 命令拉起，默认镜像约 4GB，slim/alpine 镜像不含桌面。可惜我是slim镜像，不折腾了，能平替的太多了。&lt;br/&gt;&lt;br/&gt;&lt;a href="https://openwebui.com/blog/v0-13-0-your-model-gets-a-computer" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;openwebui.com/blog/v0-13...&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24416</guid>
+      <pubDate>Wed, 04 Nov 2026 14:51:36 +0000</pubDate>
+    </item>
     <item>
       <title>✖️ Geek 第一次遇到 AI 完全没用文字、仅发表情回复我，特此记录一下。 和 Grok Bot 讨论美国中期选举时，我赞同了它的部分观点并作了补充，没想到</title>
       <link>https://t.me/KissmeBabyFeedTwitter/24415</link>
@@ -125,13 +132,6 @@
       <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/iam678/status/2117194486346625529" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;梁&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;我擦...且玩且珍惜吧。&lt;br/&gt;或许以后泡泡浴，&lt;br/&gt;真的会成为历史的...&lt;br/&gt;---------&lt;br/&gt;&lt;tg-emoji emoji-id="5807880911974308745"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9480.png')"&gt;&lt;b&gt;🔀&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://t.me/RoutifyBot?start=from-aximo" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Routify&lt;/b&gt;&lt;/a&gt;: 自动在 Telegram 聊天间转发消息。&lt;/div&gt;</description>
       <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24397</guid>
       <pubDate>Mon, 02 Nov 2026 14:45:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>✖️ Geek 平时叫你们不要用国产机，你不以为然，来查查到底谁把定位和通讯录往外送，插上 USB 跑一遍 adb 扫描，就会出一份带域名和回滚命令的清单。 h</title>
-      <link>https://t.me/KissmeBabyFeedTwitter/24396</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;tg-emoji emoji-id="5355148941878900494"&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C96.png')"&gt;&lt;b&gt;✖️&lt;/b&gt;&lt;/i&gt;&lt;/tg-emoji&gt; &lt;a href="https://x.com/geekbb/status/2117122916672475502" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Geek&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;平时叫你们不要用国产机，你不以为然，来查查到底谁把定位和通讯录往外送，插上 USB 跑一遍 adb 扫描，就会出一份带域名和回滚命令的清单。&lt;br/&gt;&lt;br/&gt;&lt;a href="https://github.com/Verlintas/NOIR" rel="noopener" target="_blank"&gt;https://github.com/Verlintas/NOIR&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://t.me/KissmeBabyFeedTwitter/24396</guid>
-      <pubDate>Mon, 02 Nov 2026 06:44:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
