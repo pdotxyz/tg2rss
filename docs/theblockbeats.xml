@@ -6,7 +6,15 @@
     <description>Posts from t.me/theblockbeats</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 18:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 23:42:02 +0000</lastBuildDate>
+    <item>
+      <title>OpenAI披露自主漏洞流水线，一次跑出948个Linux本地提权漏洞 BlockBeats 消息，11 月 5 日，据 OpenAI 官网披露，该公司已搭建覆</title>
+      <link>https://t.me/theblockbeats/204188</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;OpenAI披露自主漏洞流水线，一次跑出948个Linux本地提权漏洞&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 5 日，据 OpenAI 官网披露，该公司已搭建覆盖漏洞发现、动态验证、可利用性评估与补丁生成的自主安全研究流水线。在一次以即将推出的网络模型为核心的运行中，流水线对 Linux 内核相关目标完成扫描与验证，并生成 948 个可在常用 Linux 发行版上实现本地提权（LPE）的漏洞利用，API 成本约 121.3 万美元，约合每个 LPE 利用 1,279 美元。&lt;br/&gt;&lt;br/&gt;据介绍，该流水线共识别并分析 2,308 个候选发现，动态复现 1,724 个漏洞，另产出 291 个信息泄露 PoC；目标虚拟机运行带完整防护的标准桌面系统。Scout 智能体先圈定约 5,034 个审计目标（约 280 万行代码，约占内核 7%），Analyst 智能体在约 12 小时内产出候选发现。OpenAI 表示已按 Linux 社区建议优先报送关键漏洞补丁，并与 Patch the Planet 合作方继续推进其余报告。&lt;br/&gt;&lt;br/&gt;OpenAI 还称，在适配的 kernelCTF 环境中另获得 25 个信息泄露 PoC 与 21 个 LPE；抽检 166 个利用中，智能体据称使用了至少 10 种其认为较新的 Linux 利用技术。公司强调维护者修复很快：扫描约 10 天内已有逾 100 个 LPE 获修补或进入暂存补丁，另有约 300 个进入公开讨论。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/375558?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/375558&lt;/a&gt;&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;OpenAI披露自主漏洞流水线，一次跑出948个Linux本地提权漏洞&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 5 日，据 OpenAI 官网披露，该公司已搭建覆盖漏洞发现、动态验证、可利用性评估与补丁生成的自主安全研究流水线。在一次以即将推出的网络模型为核心的运行中，流水线对 Linux 内核相关目标完成扫描与验证，并生成 948 个可在常用 Linux 发行版上实现本地提权（LPE）的漏洞利用，API 成本约 121.3 万美元，约合每个 LPE 利用 1,279 美元。&lt;br/&gt;&lt;br/&gt;据介绍，该流水线共识别并分析 2,308 个候选发现，动态复现 1,724 个漏洞，另产出 291 个信息泄露 PoC；目标虚拟机运行带完整防护的标准桌面系统。Scout 智能体先圈定约 5,034 个审计目标（约 280 万行代码，约占内核 7%），Analyst 智能体在约 12 小时内产出候选发现。OpenAI 表示已按 Linux 社区建议优先报送关键漏洞补丁，并与 Patch the Planet 合作方继续推进其余报告。&lt;br/&gt;&lt;br/&gt;OpenAI 还称，在适配的 kernelCTF 环境中另获得 25 个信息泄露 PoC 与 21 个 LPE；抽检 166 个利用中，智能体据称使用了至少 10 种其认为较新的 Linux 利用技术。公司强调维护者修复很快：扫描约 10 天内已有逾 100 个 LPE 获修补或进入暂存补丁，另有约 300 个进入公开讨论。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/375558?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/375558&lt;/a&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/theblockbeats/204188</guid>
+      <pubDate>Wed, 04 Nov 2026 23:42:02 +0000</pubDate>
+    </item>
     <item>
       <title>特朗普称共和党中期选举失利与伊朗问题有关，并为对伊行动辩护 BlockBeats 消息，11 月 5 日，美国总统特朗普表示，共和党在中期选举中遭遇失利，很大程</title>
       <link>https://t.me/theblockbeats/204187</link>
@@ -158,14 +166,6 @@
       <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;比特币回升突破8万美元&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 4 日，据 HTX 行情数据，比特币回升突破 8 万美元。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/375539?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/375539&lt;/a&gt;&lt;/div&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/theblockbeats/204169</guid>
       <pubDate>Wed, 04 Nov 2026 15:05:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ 以太坊回升突破2400美元 BlockBeats 消息，11 月 4 日，据 HTX 行情数据，以太坊回升突破 2400 美元，24 小时涨幅 4.98%</title>
-      <link>https://t.me/theblockbeats/204168</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"&gt;&lt;b&gt;⚡️&lt;/b&gt;&lt;/i&gt;以太坊回升突破2400美元&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 4 日，据 HTX 行情数据，以太坊回升突破 2400 美元，24 小时涨幅 4.98%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/375538?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/375538&lt;/a&gt;&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"&gt;&lt;b&gt;⚡️&lt;/b&gt;&lt;/i&gt;以太坊回升突破2400美元&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 4 日，据 HTX 行情数据，以太坊回升突破 2400 美元，24 小时涨幅 4.98%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/375538?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/375538&lt;/a&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/theblockbeats/204168</guid>
-      <pubDate>Wed, 04 Nov 2026 15:03:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

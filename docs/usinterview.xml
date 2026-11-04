@@ -6,7 +6,15 @@
     <description>Posts from t.me/usinterview</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 22:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 23:30:05 +0000</lastBuildDate>
+    <item>
+      <title>开放爱 昂赛 BQ面经 https://www.1point3acres.com/bbs/thread-1195820-1-1.html #openai 码农类</title>
+      <link>https://t.me/usinterview/30462</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;开放爱 昂赛 BQ面经&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1195820-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1195820-1-1.html&lt;/a&gt; &lt;a href="?q=%23openai"&gt;#openai&lt;/a&gt; 码农类General@全职 Onsite  在职跳槽&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;开放爱 昂赛 BQ面经&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1195820-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1195820-1-1.html&lt;/a&gt; &lt;a href="?q=%23openai"&gt;#openai&lt;/a&gt; 码农类General@全职 Onsite  在职跳槽&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/usinterview/30462</guid>
+      <pubDate>Wed, 04 Nov 2026 23:30:05 +0000</pubDate>
+    </item>
     <item>
       <title>Nvidia Senior SDE 第一轮面经 https://www.1point3acres.com/bbs/thread-1195816-1-1.html</title>
       <link>https://t.me/usinterview/30461</link>
@@ -158,14 +166,6 @@
       <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Brex Senior Software Engineer 电面 2026.Oct&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1195631-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1195631-1-1.html&lt;/a&gt; &lt;a href="?q=%23brex"&gt;#brex&lt;/a&gt; 码农类General@全职 技术电面  在职跳槽&lt;/div&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/usinterview/30443</guid>
       <pubDate>Tue, 03 Nov 2026 21:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>rippling电面 https://www.1point3acres.com/bbs/thread-1195625-1-1.html #rippling 码农</title>
-      <link>https://t.me/usinterview/30442</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;rippling电面&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1195625-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1195625-1-1.html&lt;/a&gt; &lt;a href="?q=%23rippling"&gt;#rippling&lt;/a&gt; 码农类General@全职 技术电面  在职跳槽&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;rippling电面&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1195625-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1195625-1-1.html&lt;/a&gt; &lt;a href="?q=%23rippling"&gt;#rippling&lt;/a&gt; 码农类General@全职 技术电面  在职跳槽&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/usinterview/30442</guid>
-      <pubDate>Tue, 03 Nov 2026 19:30:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
