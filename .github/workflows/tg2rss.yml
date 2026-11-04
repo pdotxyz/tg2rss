@@ -35,7 +35,7 @@ jobs:
         run: |
           set +e
 
-          uv run tg2rss.py $(cat channels.txt) 2>&1 | tee tg2rss.log
+          uv run --with requests --with beautifulsoup4 --with feedgen tg2rss.py $(cat channels.txt) 2>&1 | tee tg2rss.log
           status=${PIPESTATUS[0]}
 
           success_count=$(grep -c ': wrote ' tg2rss.log || true)
