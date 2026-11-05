@@ -6,7 +6,17 @@
     <description>Posts from t.me/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 16:08:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 15:02:31 +0000</lastBuildDate>
+    <item>
+      <title>开源 SSH 客户端 SSHYard：把 SSH 终端、SFTP 文件管理和 AI 助手整合到一个 Go 开发的原生桌面应用中。 支持 macOS / Wind</title>
+      <link>https://t.me/abskoop/13109</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;开源 SSH 客户端 SSHYard：把 SSH 终端、SFTP 文件管理和 AI 助手整合到一个 Go 开发的原生桌面应用中。&lt;br/&gt;&lt;br/&gt;支持 macOS / Windows / Linux，AI 在获得授权后可以直接连接远程服务器，执行命令、检查日志和修改配置文件。提供 Ask、Review、Full access 三种操作模式，分别控制人工确认、自动审核和直接执行。&lt;br/&gt;&lt;br/&gt;还支持 MCP 和 Agent Skill，可以让 Claude Code、Codex 等本地 AI Agent 连接 SSH 主机，执行远程运维任务。&lt;br/&gt;&lt;br/&gt;SSH 凭据采用本地加密存储，官方安装包约 7–11 MB。项目免费开源，建议先用测试服务器体验。&lt;br/&gt;&lt;br/&gt;ZH&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/98400/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/98400/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;EN&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/en/98421/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/en/98421/&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/VpuLgVDVynCtzqY5jd43GMboVNHgngt-HlNsBzVdrXLoynokKc_vmNk-1YXS6I-QvIinFLbyde2wUSwoJInXViXE0GQ25N5MXqnNb0kBooH1f4GHWbx75fBXzF6NOzJnRg75ui_9JEKKZzoNdNGATnXO1o4iVQGSlj9HbuojW6nB0SzNCW9YJeDajBPyBao1of1oQs_QzTgJwjHh0Hr5WVE9v3d1T7oK6-qLKc9NuXXk2EdWaEBlHbVFb2LUFPFXPT1PhDl9bdFSIx3hVs-Z_hzKVw4vSsbc9BlZswmFLeocCp4pB40Ywvx_ZOi-f0GExEyXP4MenPoeaZt1x3tkqA.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;开源 SSH 客户端 SSHYard：把 SSH 终端、SFTP 文件管理和 AI 助手整合到一个 Go 开发的原生桌面应用中。&lt;br/&gt;&lt;br/&gt;支持 macOS / Windows / Linux，AI 在获得授权后可以直接连接远程服务器，执行命令、检查日志和修改配置文件。提供 Ask、Review、Full access 三种操作模式，分别控制人工确认、自动审核和直接执行。&lt;br/&gt;&lt;br/&gt;还支持 MCP 和 Agent Skill，可以让 Claude Code、Codex 等本地 AI Agent 连接 SSH 主机，执行远程运维任务。&lt;br/&gt;&lt;br/&gt;SSH 凭据采用本地加密存储，官方安装包约 7–11 MB。项目免费开源，建议先用测试服务器体验。&lt;br/&gt;&lt;br/&gt;ZH&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/98400/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/98400/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;EN&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/en/98421/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/en/98421/&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/VpuLgVDVynCtzqY5jd43GMboVNHgngt-HlNsBzVdrXLoynokKc_vmNk-1YXS6I-QvIinFLbyde2wUSwoJInXViXE0GQ25N5MXqnNb0kBooH1f4GHWbx75fBXzF6NOzJnRg75ui_9JEKKZzoNdNGATnXO1o4iVQGSlj9HbuojW6nB0SzNCW9YJeDajBPyBao1of1oQs_QzTgJwjHh0Hr5WVE9v3d1T7oK6-qLKc9NuXXk2EdWaEBlHbVFb2LUFPFXPT1PhDl9bdFSIx3hVs-Z_hzKVw4vSsbc9BlZswmFLeocCp4pB40Ywvx_ZOi-f0GExEyXP4MenPoeaZt1x3tkqA.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/abskoop/13109</guid>
+      <pubDate>Thu, 05 Nov 2026 15:02:31 +0000</pubDate>
+    </item>
     <item>
       <title>用 AI 生成 CAD 模型，还能修改尺寸、导出 STEP 文件。 开源项目 Text-to-CAD 支持 Claude Code、Codex、Cursor，让</title>
       <link>https://t.me/abskoop/13108</link>
@@ -196,16 +206,6 @@
 &lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/fIwUIhTIaGvX3-yT41VOwOEyz3lgFVfM96sqzIt837JDLem6P9rE0fWQfJbOzl2OqKH5V6GrSCErHlX62tlmBzVHIYwjlG4w9dwinLdwqrHjKQkDn_HSeH1WcZWtxNSirsgiLdRL--s_SdA8GHF72l_7o07VqqfllUU6Qu_C2uF232mPQmdda1fpAXDZbG7MLiW41WrLfYDHO2izWgJMwcSLJVnAQqYA_ECNbr47F2WgF4ZKIWgcKouz20x1VMUgxZ_-WWtXOSBo3S67wwUcT5PlwxQsc3khW9ArV5-xzpZ3yHq0XhsoUf4nWEoy_7jM1LP3qJFSxIO7VlLL0eLVjQ.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/abskoop/13090</guid>
       <pubDate>Sat, 03 Oct 2026 10:56:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>ImgAI ：一个在线 AI 图片与视频创作平台 支持 AI 图片生成、照片编辑、产品图、虚拟试穿和短视频生成，集成 GPT Image、Nano Banana</title>
-      <link>https://t.me/abskoop/13089</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;ImgAI ：一个在线 AI 图片与视频创作平台&lt;br/&gt;&lt;br/&gt;支持 AI 图片生成、照片编辑、产品图、虚拟试穿和短视频生成，集成 GPT Image、Nano Banana、FLUX、Seedance、MiniMax 等模型。&lt;br/&gt;&lt;br/&gt;做电商素材、商品图和短视频都可以直接在浏览器里完成。&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/61395/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/61395/&lt;/a&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/vMFKcZeWOP6EKD6Gomrq9Nnfgee4vpkDdOyb4kcMGczrbCN-sbH8WRYesUkMZqpsDmLL6Sfwxrk7NFCveCVZ3Mu-BgQiaXH7cXx1o5YAqP40uobWvb_Pbr-WY8-iK1j9EEpew4u-BUzdSCkoXdyjuqFaCwdQ5i_14AKl5UVg9-JmsOHbIoAEz02_msDQVAWk-Ekxt-uaekASjpB32scCKGZlD0FLUHFOWZ3kVo1QzjqyPKswG_yiY1-BuErU_78dTJaZeKP5hD2-VsV4QVbZ2fXOvc3YcTtLnyCWQoUVcWPzjW8Q7a_sNKd7O_kQciZJJTTMcDRziz94IsFxGuUaig.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;ImgAI ：一个在线 AI 图片与视频创作平台&lt;br/&gt;&lt;br/&gt;支持 AI 图片生成、照片编辑、产品图、虚拟试穿和短视频生成，集成 GPT Image、Nano Banana、FLUX、Seedance、MiniMax 等模型。&lt;br/&gt;&lt;br/&gt;做电商素材、商品图和短视频都可以直接在浏览器里完成。&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/61395/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/61395/&lt;/a&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/vMFKcZeWOP6EKD6Gomrq9Nnfgee4vpkDdOyb4kcMGczrbCN-sbH8WRYesUkMZqpsDmLL6Sfwxrk7NFCveCVZ3Mu-BgQiaXH7cXx1o5YAqP40uobWvb_Pbr-WY8-iK1j9EEpew4u-BUzdSCkoXdyjuqFaCwdQ5i_14AKl5UVg9-JmsOHbIoAEz02_msDQVAWk-Ekxt-uaekASjpB32scCKGZlD0FLUHFOWZ3kVo1QzjqyPKswG_yiY1-BuErU_78dTJaZeKP5hD2-VsV4QVbZ2fXOvc3YcTtLnyCWQoUVcWPzjW8Q7a_sNKd7O_kQciZJJTTMcDRziz94IsFxGuUaig.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/abskoop/13089</guid>
-      <pubDate>Fri, 02 Oct 2026 16:22:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
