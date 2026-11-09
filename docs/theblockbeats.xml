@@ -6,7 +6,55 @@
     <description>Posts from t.me/theblockbeats</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 15:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 16:36:02 +0000</lastBuildDate>
+    <item>
+      <title>AntPool挖出比特币史上交易笔数第二高区块，而打包手续费仅约180美元 BlockBeats 消息，11 月 10 日，据 CoinDesk 报道，AntP</title>
+      <link>https://t.me/theblockbeats/205022</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;AntPool挖出比特币史上交易笔数第二高区块，而打包手续费仅约180美元&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 10 日，据 CoinDesk 报道，AntPool 上周六挖出比特币第 974961 号区块，共打包 11,255 笔交易。据 &lt;a href="http://mempool.space/" rel="noopener" target="_blank"&gt;mempool.space&lt;/a&gt; 数据，该数字距 2015 年 8 月 1 日 F2Pool 挖出的第 367853 号区块所创 12,239 笔网络纪录相差 984 笔，为比特币网络有记录以来交易笔数第二高的区块。这些交易合计支付 240,533 聪手续费，按周日比特币价格约 75,800 美元计算，约合 180 美元。AntPool 该区块总收益约 23.7 万美元，几乎全部来自固定的 3.125 BTC 区块补贴。&lt;br/&gt;&lt;br/&gt;&lt;a href="http://mempool.space/" rel="noopener" target="_blank"&gt;mempool.space&lt;/a&gt; 将该区块中位费率四舍五入记为 0。CoinDesk 抽样显示，区块中部存在一批约 80 字节、每笔仅支付 1 聪手续费的交易，低于比特币核心 29.1 版本默认中继门槛 0.1 聪/虚拟字节。该门槛属于节点策略而非共识规则，包含更低费率交易的区块仍有效。11 月 4 日，AntPool 挖出的第 974557 号区块也曾打包 10,573 笔交易，手续费约 110 美元。&lt;br/&gt;&lt;br/&gt;2015 年该纪录区块支付了 0.22582926 BTC 手续费，约为本次的 94 倍；按当时比特币约 285 美元计算，手续费约合 64 美元，25 BTC 区块补贴约合 7,100 美元。比特币区块补贴预计将在 2028 年 4 月前后于第 1050000 号区块减半至 1.5625 BTC。CoinDesk 指出，本次手续费不足此次减半后矿工将减少补贴部分的 0.2%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376397?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376397&lt;/a&gt;&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;AntPool挖出比特币史上交易笔数第二高区块，而打包手续费仅约180美元&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 10 日，据 CoinDesk 报道，AntPool 上周六挖出比特币第 974961 号区块，共打包 11,255 笔交易。据 &lt;a href="http://mempool.space/" rel="noopener" target="_blank"&gt;mempool.space&lt;/a&gt; 数据，该数字距 2015 年 8 月 1 日 F2Pool 挖出的第 367853 号区块所创 12,239 笔网络纪录相差 984 笔，为比特币网络有记录以来交易笔数第二高的区块。这些交易合计支付 240,533 聪手续费，按周日比特币价格约 75,800 美元计算，约合 180 美元。AntPool 该区块总收益约 23.7 万美元，几乎全部来自固定的 3.125 BTC 区块补贴。&lt;br/&gt;&lt;br/&gt;&lt;a href="http://mempool.space/" rel="noopener" target="_blank"&gt;mempool.space&lt;/a&gt; 将该区块中位费率四舍五入记为 0。CoinDesk 抽样显示，区块中部存在一批约 80 字节、每笔仅支付 1 聪手续费的交易，低于比特币核心 29.1 版本默认中继门槛 0.1 聪/虚拟字节。该门槛属于节点策略而非共识规则，包含更低费率交易的区块仍有效。11 月 4 日，AntPool 挖出的第 974557 号区块也曾打包 10,573 笔交易，手续费约 110 美元。&lt;br/&gt;&lt;br/&gt;2015 年该纪录区块支付了 0.22582926 BTC 手续费，约为本次的 94 倍；按当时比特币约 285 美元计算，手续费约合 64 美元，25 BTC 区块补贴约合 7,100 美元。比特币区块补贴预计将在 2028 年 4 月前后于第 1050000 号区块减半至 1.5625 BTC。CoinDesk 指出，本次手续费不足此次减半后矿工将减少补贴部分的 0.2%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376397?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376397&lt;/a&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/theblockbeats/205022</guid>
+      <pubDate>Mon, 09 Nov 2026 16:36:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>高盛CEO：美国仍将在数据中心和算力容量方面获得大量投资 BlockBeats 消息，11 月 10 日，高盛首席执行官 Solomon 表示，他乐观地认为，美</title>
+      <link>https://t.me/theblockbeats/205021</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;高盛CEO：美国仍将在数据中心和算力容量方面获得大量投资&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 10 日，高盛首席执行官 Solomon 表示，他乐观地认为，美国仍将在数据中心和算力容量方面获得大量投资。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376396?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376396&lt;/a&gt;&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;高盛CEO：美国仍将在数据中心和算力容量方面获得大量投资&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 10 日，高盛首席执行官 Solomon 表示，他乐观地认为，美国仍将在数据中心和算力容量方面获得大量投资。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376396?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376396&lt;/a&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/theblockbeats/205021</guid>
+      <pubDate>Mon, 09 Nov 2026 16:27:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>费城半导体指数涨超7%，AMD大涨超12% BlockBeats 消息，11 月 10 日，据 BIT 股票平台数据显示，费城半导体指数日内扩大涨幅至 7%。A</title>
+      <link>https://t.me/theblockbeats/205020</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;费城半导体指数涨超7%，AMD大涨超12%&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 10 日，据 BIT 股票平台数据显示，费城半导体指数日内扩大涨幅至 7%。AMD(AMD.O) 涨超 12%，博通 (AVGO.O) 涨超 9%，美光 (MU.O) 涨超 7%，高通 (QCOM.O)、阿斯麦 (ASML.O)、台积电 (TSM.N) 涨超 4%，英特尔 (INTC.O) 涨超 5%；英伟达 (NVDA.O) 跌超 5%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376395?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376395&lt;/a&gt;&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;费城半导体指数涨超7%，AMD大涨超12%&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 10 日，据 BIT 股票平台数据显示，费城半导体指数日内扩大涨幅至 7%。AMD(AMD.O) 涨超 12%，博通 (AVGO.O) 涨超 9%，美光 (MU.O) 涨超 7%，高通 (QCOM.O)、阿斯麦 (ASML.O)、台积电 (TSM.N) 涨超 4%，英特尔 (INTC.O) 涨超 5%；英伟达 (NVDA.O) 跌超 5%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376395?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376395&lt;/a&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/theblockbeats/205020</guid>
+      <pubDate>Mon, 09 Nov 2026 16:12:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>美股AI概念股迎持续反弹，纳指涨3.28%，COHR涨17.28% BlockBeats 消息，11 月 10 日，据 BIT 股票平台数据显示，美股道指涨 1</title>
+      <link>https://t.me/theblockbeats/205019</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;美股AI概念股迎持续反弹，纳指涨3.28%，COHR涨17.28%&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 10 日，据 BIT 股票平台数据显示，美股道指涨 1.77%，标普 500 涨 2.2%，纳斯达克 100 涨 3.28%，AI 概念股全线反弹，其中：&lt;br/&gt;&lt;br/&gt;光模块：COHR 涨 17.28%、LITE 涨 13.71%、AAOI 涨 7.44%、NOK 涨 7.9%，MRVL 涨 11.59%&lt;br/&gt;&lt;br/&gt;存储：SKHY 涨 5.76%、STX 涨 9.21%、WDC 涨 8.4%、SNDK 涨 7.04%、MU 涨 7.14%。&lt;br/&gt;&lt;br/&gt;英伟达因负面新闻影响跌 3.8%，直接竞争对手 AMD 涨 11.2%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376394?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376394&lt;/a&gt;&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;美股AI概念股迎持续反弹，纳指涨3.28%，COHR涨17.28%&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 10 日，据 BIT 股票平台数据显示，美股道指涨 1.77%，标普 500 涨 2.2%，纳斯达克 100 涨 3.28%，AI 概念股全线反弹，其中：&lt;br/&gt;&lt;br/&gt;光模块：COHR 涨 17.28%、LITE 涨 13.71%、AAOI 涨 7.44%、NOK 涨 7.9%，MRVL 涨 11.59%&lt;br/&gt;&lt;br/&gt;存储：SKHY 涨 5.76%、STX 涨 9.21%、WDC 涨 8.4%、SNDK 涨 7.04%、MU 涨 7.14%。&lt;br/&gt;&lt;br/&gt;英伟达因负面新闻影响跌 3.8%，直接竞争对手 AMD 涨 11.2%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376394?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376394&lt;/a&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/theblockbeats/205019</guid>
+      <pubDate>Mon, 09 Nov 2026 16:02:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>纳指涨幅扩大至3%，标普500涨超2%创三个月来最大盘中涨幅 BlockBeats 消息，11 月 9 日，据 BIT 股票平台数据显示，标普 500 指数涨幅</title>
+      <link>https://t.me/theblockbeats/205018</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;纳指涨幅扩大至3%，标普500涨超2%创三个月来最大盘中涨幅&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，据 BIT 股票平台数据显示，标普 500 指数涨幅扩大至 2%，创三个月来最大盘中涨幅，现报 2.13%。道指涨幅现报 1.75%，纳斯达克 100 涨 3.14%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376393?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376393&lt;/a&gt;&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;纳指涨幅扩大至3%，标普500涨超2%创三个月来最大盘中涨幅&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，据 BIT 股票平台数据显示，标普 500 指数涨幅扩大至 2%，创三个月来最大盘中涨幅，现报 2.13%。道指涨幅现报 1.75%，纳斯达克 100 涨 3.14%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376393?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376393&lt;/a&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/theblockbeats/205018</guid>
+      <pubDate>Mon, 09 Nov 2026 15:57:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>AVAX涨幅扩大至11%，短时突破9美元 BlockBeats 消息，11 月 9 日，据 HTX 行情数据显示，自「AVAX 与纽交所达成合作」消息发布后，A</title>
+      <link>https://t.me/theblockbeats/205017</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;AVAX涨幅扩大至11%，短时突破9美元&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，据 HTX 行情数据显示，自「AVAX 与纽交所达成合作」消息发布后，AVAX 涨幅扩大至 11%，短时突破 9 美元，现报价 8.94 美元。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376392?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376392&lt;/a&gt;&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;AVAX涨幅扩大至11%，短时突破9美元&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，据 HTX 行情数据显示，自「AVAX 与纽交所达成合作」消息发布后，AVAX 涨幅扩大至 11%，短时突破 9 美元，现报价 8.94 美元。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376392?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376392&lt;/a&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/theblockbeats/205017</guid>
+      <pubDate>Mon, 09 Nov 2026 15:53:02 +0000</pubDate>
+    </item>
     <item>
       <title>⚡️ 比特币涨幅不及美股指数，过去1小时闪迪合约爆仓434万美元超越同期ETH数据 BlockBeats 消息，11 月 9 日，据 Coinglass 数据显</title>
       <link>https://t.me/theblockbeats/205016</link>
@@ -118,54 +166,6 @@
       <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;「木头姐」：不认为现在是AI牛市末期，当前情绪与以往行业泡沫存在明显差异&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，Ark Invest 首席执行官 Cathie Wood 在接受 CNBC 采访时，称其对后市仍持乐观态度。「当市场感到担忧时，我总是更加安心，因为这通常意味着牛市更具持续性。我认为这轮牛市尚未脱轨。」&lt;br/&gt;&lt;br/&gt;Cathie Wood 预计，美股上涨行情将在 2027 年延续，人工智能代理、自动驾驶出租车等新技术的发展将进一步推动市场。不过，她也承认，融资成本上升正成为科技股面临的重要风险。&lt;br/&gt;&lt;br/&gt;Cathie Wood 表示，当前市场情绪与 20 世纪八九十年代的科技及电信行业泡沫存在明显差异。当时投资者普遍相信科技股将持续上涨，对潜在风险缺乏足够警惕。对于当前牛市是否接近尾声，Cathie Wood 明确表示，她并不这样认为。「我认为我们正处于一场技术革命之中。」&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376378?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376378&lt;/a&gt;&lt;/div&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/theblockbeats/205003</guid>
       <pubDate>Mon, 09 Nov 2026 14:40:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Injective：停块系计划内主网升级测试，将尽快恢复网络 BlockBeats 消息，11 月 9 日，Injective 官方 Telegram 群社区管</title>
-      <link>https://t.me/theblockbeats/205002</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Injective：停块系计划内主网升级测试，将尽快恢复网络&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，Injective 官方 Telegram 群社区管理员针对「Injective 网络停止出块」发布回应表示，Injective 目前正与验证者协调进行一次计划内的主网升级测试，以筹备未来数周内的一次重大网络升级。此次测试是 Injective 新推出的网络就绪计划的一部分，旨在检验紧急升级流程，并加强验证者与生态合作方在 Injective Institutional Rail 推出后的协同。团队正在推进相关流程，将尽快恢复网络正常运行。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376377?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376377&lt;/a&gt;&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Injective：停块系计划内主网升级测试，将尽快恢复网络&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，Injective 官方 Telegram 群社区管理员针对「Injective 网络停止出块」发布回应表示，Injective 目前正与验证者协调进行一次计划内的主网升级测试，以筹备未来数周内的一次重大网络升级。此次测试是 Injective 新推出的网络就绪计划的一部分，旨在检验紧急升级流程，并加强验证者与生态合作方在 Injective Institutional Rail 推出后的协同。团队正在推进相关流程，将尽快恢复网络正常运行。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376377?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376377&lt;/a&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/theblockbeats/205002</guid>
-      <pubDate>Mon, 09 Nov 2026 14:35:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>美股三大股指高开，英伟达跌超8% BlockBeats 消息，11 月 9 日，据 BIT 股票平台数据显示，美股开盘，道指涨 1.3%，标普 500 指数涨 </title>
-      <link>https://t.me/theblockbeats/205001</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;美股三大股指高开，英伟达跌超8%&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，据 BIT 股票平台数据显示，美股开盘，道指涨 1.3%，标普 500 指数涨 0.8%，纳指涨 0.8%。明星科技股多数上涨，谷歌 (GOOG.O) 上涨 2.6%，公司推出两款新 TPU，挑战英伟达。AMD(AMD.O) 涨 5.9%，Meta Platforms(META.O) 涨 3.9%，美光科技 (MU.O) 涨 1.9%。&lt;br/&gt;&lt;br/&gt;受黄仁勋相关事件影响，英伟达 (NVDA.O) 开盘下跌 8.4%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376376?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376376&lt;/a&gt;&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;美股三大股指高开，英伟达跌超8%&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，据 BIT 股票平台数据显示，美股开盘，道指涨 1.3%，标普 500 指数涨 0.8%，纳指涨 0.8%。明星科技股多数上涨，谷歌 (GOOG.O) 上涨 2.6%，公司推出两款新 TPU，挑战英伟达。AMD(AMD.O) 涨 5.9%，Meta Platforms(META.O) 涨 3.9%，美光科技 (MU.O) 涨 1.9%。&lt;br/&gt;&lt;br/&gt;受黄仁勋相关事件影响，英伟达 (NVDA.O) 开盘下跌 8.4%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376376?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376376&lt;/a&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/theblockbeats/205001</guid>
-      <pubDate>Mon, 09 Nov 2026 14:32:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️ 布伦特原油日内大跌5%，WTI原油日内跌4.6% BlockBeats 消息，11 月 9 日，据 Bitget 行情数据显示，布伦特原油日内大跌 5%，</title>
-      <link>https://t.me/theblockbeats/205000</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"&gt;&lt;b&gt;⚡️&lt;/b&gt;&lt;/i&gt;布伦特原油日内大跌5%，WTI原油日内跌4.6%&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，据 &lt;a href="https://partner.hdmune.cn/bg/ptgqcfcd" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Bitget&lt;/a&gt; 行情数据显示，布伦特原油日内大跌 5%，现报 92.98 美元/桶。WTI 原油日内跌 4.6%，现报 86.27 美元/桶。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376375?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376375&lt;/a&gt;&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"&gt;&lt;b&gt;⚡️&lt;/b&gt;&lt;/i&gt;布伦特原油日内大跌5%，WTI原油日内跌4.6%&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，据 &lt;a href="https://partner.hdmune.cn/bg/ptgqcfcd" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;Bitget&lt;/a&gt; 行情数据显示，布伦特原油日内大跌 5%，现报 92.98 美元/桶。WTI 原油日内跌 4.6%，现报 86.27 美元/桶。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376375?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376375&lt;/a&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/theblockbeats/205000</guid>
-      <pubDate>Mon, 09 Nov 2026 14:23:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Injective网络停止出块，Upbit暂停INJ充提 BlockBeats 消息，11 月 9 日，据 Injective 官方节点数据显示，Injecti</title>
-      <link>https://t.me/theblockbeats/204999</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Injective网络停止出块，Upbit暂停INJ充提&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，据 Injective 官方节点数据显示，Injective 主网已停止出块，最新区块高度停留在 191,016,661，该区块生成于北京时间 21:04。&lt;br/&gt;&lt;br/&gt;韩国加密交易平台 Upbit 公告称，因 Injective（INJ）区块生成中断，已暂停 INJ 充值与提现，现货交易不受影响，待确认充提稳定性后将通过公告通知恢复。另一家韩国交易平台 Coinone 亦公告称，因网络故障，自北京时间 22:25 起暂停 INJ 充提，交易等其他服务不受影响。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376374?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376374&lt;/a&gt;&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Injective网络停止出块，Upbit暂停INJ充提&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，据 Injective 官方节点数据显示，Injective 主网已停止出块，最新区块高度停留在 191,016,661，该区块生成于北京时间 21:04。&lt;br/&gt;&lt;br/&gt;韩国加密交易平台 Upbit 公告称，因 Injective（INJ）区块生成中断，已暂停 INJ 充值与提现，现货交易不受影响，待确认充提稳定性后将通过公告通知恢复。另一家韩国交易平台 Coinone 亦公告称，因网络故障，自北京时间 22:25 起暂停 INJ 充提，交易等其他服务不受影响。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376374?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376374&lt;/a&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/theblockbeats/204999</guid>
-      <pubDate>Mon, 09 Nov 2026 14:07:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>嘉信理财新增支持SOL、AVAX与LINK现货交易 BlockBeats 消息，11 月 9 日，嘉信理财宣布 Schwab Crypto 平台新增三种可买卖代</title>
-      <link>https://t.me/theblockbeats/204998</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;嘉信理财新增支持SOL、AVAX与LINK现货交易&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，嘉信理财宣布 Schwab Crypto 平台新增三种可买卖代币——Solana（SOL/USD）、Avalanche（AVAX/USD）与 Chainlink（LINK/USD）。加上原有的比特币与以太坊，客户现在可以通过该平台交易五种数字资产。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376373?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376373&lt;/a&gt;&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;嘉信理财新增支持SOL、AVAX与LINK现货交易&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，嘉信理财宣布 Schwab Crypto 平台新增三种可买卖代币——Solana（SOL/USD）、Avalanche（AVAX/USD）与 Chainlink（LINK/USD）。加上原有的比特币与以太坊，客户现在可以通过该平台交易五种数字资产。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376373?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376373&lt;/a&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/theblockbeats/204998</guid>
-      <pubDate>Mon, 09 Nov 2026 14:06:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>美、布两油走低，WTI原油日内大跌近4%现报87.72美元 BlockBeats 消息，11 月 9 日，美、布两油走低，WTI 原油现报 87.72 美元/桶</title>
-      <link>https://t.me/theblockbeats/204997</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;美、布两油走低，WTI原油日内大跌近4%现报87.72美元&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，美、布两油走低，WTI 原油现报 87.72 美元/桶，日内跌约 3.4%；布伦特原油现报 94.56 美元/桶，日内跌约 3.8%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376372?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376372&lt;/a&gt;&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;美、布两油走低，WTI原油日内大跌近4%现报87.72美元&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 9 日，美、布两油走低，WTI 原油现报 87.72 美元/桶，日内跌约 3.4%；布伦特原油现报 94.56 美元/桶，日内跌约 3.8%。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/376372?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/376372&lt;/a&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/theblockbeats/204997</guid>
-      <pubDate>Mon, 09 Nov 2026 13:55:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
