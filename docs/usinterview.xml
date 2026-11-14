@@ -6,7 +6,15 @@
     <description>Posts from t.me/usinterview</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 06:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:00:06 +0000</lastBuildDate>
+    <item>
+      <title>databricks 店面系统设计 https://www.1point3acres.com/bbs/thread-1197039-1-1.html #data</title>
+      <link>https://t.me/usinterview/30562</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;databricks 店面系统设计&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197039-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197039-1-1.html&lt;/a&gt; &lt;a href="?q=%23databricks"&gt;#databricks&lt;/a&gt; 码农类General@全职 技术电面  在职跳槽&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;databricks 店面系统设计&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197039-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197039-1-1.html&lt;/a&gt; &lt;a href="?q=%23databricks"&gt;#databricks&lt;/a&gt; 码农类General@全职 技术电面  在职跳槽&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/usinterview/30562</guid>
+      <pubDate>Sat, 14 Nov 2026 08:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>Open AI 店面 https://www.1point3acres.com/bbs/thread-1197030-1-1.html #openai 码农类G</title>
       <link>https://t.me/usinterview/30561</link>
@@ -158,14 +166,6 @@
       <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Superhuman - Data Engineer&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1196762-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1196762-1-1.html&lt;/a&gt; &lt;a href="?q=%23superhuman"&gt;#superhuman&lt;/a&gt; DataEng@全职 在线笔试  在职跳槽&lt;/div&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/usinterview/30543</guid>
       <pubDate>Thu, 12 Nov 2026 19:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Baseten onsite面经 https://www.1point3acres.com/bbs/thread-1196720-1-1.html #baset</title>
-      <link>https://t.me/usinterview/30542</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Baseten onsite面经&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1196720-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1196720-1-1.html&lt;/a&gt; &lt;a href="?q=%23baseten"&gt;#baseten&lt;/a&gt; MachineLearningEng@全职 Onsite  在职跳槽&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Baseten onsite面经&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1196720-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1196720-1-1.html&lt;/a&gt; &lt;a href="?q=%23baseten"&gt;#baseten&lt;/a&gt; MachineLearningEng@全职 Onsite  在职跳槽&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/usinterview/30542</guid>
-      <pubDate>Thu, 12 Nov 2026 08:30:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
