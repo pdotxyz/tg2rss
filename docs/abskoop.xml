@@ -6,7 +6,17 @@
     <description>Posts from t.me/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 10:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:20:01 +0000</lastBuildDate>
+    <item>
+      <title>开源堡垒机 Casvisor：一款可自托管的 SSH 跳板机（Bastion Host），用于集中管理 Linux / Windows 服务器。 支持 SSH、</title>
+      <link>https://t.me/abskoop/13113</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;开源堡垒机 Casvisor：一款可自托管的 SSH 跳板机（Bastion Host），用于集中管理 Linux / Windows 服务器。&lt;br/&gt;&lt;br/&gt;支持 SSH、RDP、VNC、Telnet；提供浏览器终端、SFTP 文件传输、SSH Gateway、权限控制和会话录像回放，支持 Docker 部署。&lt;br/&gt;&lt;br/&gt;相比功能更全面的 JumpServer，Casvisor 部署更轻量，适合个人和小团队自托管管理多台服务器。&lt;br/&gt;&lt;br/&gt;ZH&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;&lt;a href="https://www.ahhhhfs.com/98588/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/98588/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;EN&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/en/98610/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/en/98610/&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/B1hm35JWU5tmx9-j_D-V4oAA4hT1mOCt_rsXqEcCQtdR_zRIstp_sR8FRgP0VYWhrG7Quxc_Pw1xo8kyigWBepFoZlheXs95TGlP2HXjSl-ibpm06t7Idua1J-Rutv2gmVf6XXUy0g7cn9Hm7-k6YcxvM8k1rq0rcQlrF5MG8DJaj7m7-F-vUAupnL7eT58q5aSSXTgb2MMhPIiBcYyK1URo0hpQiz86FVzqPmCculVIYOwm81h1lb4spYFchiB1xB9FvbYRWMwvraFiuCh4abEYsJYA1dLkIBPVGsHkQjdFeTf5OBkQ_Wvz44SiUowq9fynCVFC9Sq2MIhrN_3egQ.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;开源堡垒机 Casvisor：一款可自托管的 SSH 跳板机（Bastion Host），用于集中管理 Linux / Windows 服务器。&lt;br/&gt;&lt;br/&gt;支持 SSH、RDP、VNC、Telnet；提供浏览器终端、SFTP 文件传输、SSH Gateway、权限控制和会话录像回放，支持 Docker 部署。&lt;br/&gt;&lt;br/&gt;相比功能更全面的 JumpServer，Casvisor 部署更轻量，适合个人和小团队自托管管理多台服务器。&lt;br/&gt;&lt;br/&gt;ZH&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;&lt;a href="https://www.ahhhhfs.com/98588/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/98588/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;EN&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/en/98610/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/en/98610/&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/B1hm35JWU5tmx9-j_D-V4oAA4hT1mOCt_rsXqEcCQtdR_zRIstp_sR8FRgP0VYWhrG7Quxc_Pw1xo8kyigWBepFoZlheXs95TGlP2HXjSl-ibpm06t7Idua1J-Rutv2gmVf6XXUy0g7cn9Hm7-k6YcxvM8k1rq0rcQlrF5MG8DJaj7m7-F-vUAupnL7eT58q5aSSXTgb2MMhPIiBcYyK1URo0hpQiz86FVzqPmCculVIYOwm81h1lb4spYFchiB1xB9FvbYRWMwvraFiuCh4abEYsJYA1dLkIBPVGsHkQjdFeTf5OBkQ_Wvz44SiUowq9fynCVFC9Sq2MIhrN_3egQ.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/abskoop/13113</guid>
+      <pubDate>Sun, 15 Nov 2026 14:20:01 +0000</pubDate>
+    </item>
     <item>
       <title>想要注册Muse AI的可以用网页代理试试 我用这个 选日本的节点一次注册到了： https://shifter.io/cn/web-proxy 报错的就后退 </title>
       <link>https://t.me/abskoop/13112</link>
@@ -196,16 +206,6 @@
 &lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/tUk1uE9Hax8079SPYyZWCu47JK0yY5xqet4ogq3WoGNhoZUu77yj88-5rZ0SsDDLhucwbFQ-kdVIrrsx2tNIRHBgXAPnsenCyxDp6b1xNLh7PUQLWqpmVjLFt7XVytXmVfPSJXYkoRAnVyAXvvG5U0aAt459CtTsn8oMs49fhQU62p61lKbyYZsDytYXCQcDS6hU052hkMCYaHsT8cfJY1DSwSI78yLgXDLnTgkUMMaxqhkPU3v2CWK40JN2xTVEyfmg14GIyENvvykTd0070AU62IndpwWbpkPJGWosgXFPWY1ndr7Aa7LeYEuRnyFZDIj31rYIA7NGLHfOKUht3Q.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/abskoop/13094</guid>
       <pubDate>Sat, 10 Oct 2026 10:48:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>萝卜工坊：一款在线手写模拟工具，在线生成模拟手写文稿 可以把 Word 文档转成手写样式 PDF 也支持 PDF、照片指定区域处理、纸张和排版调整， 还能根据自</title>
-      <link>https://t.me/abskoop/13093</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;萝卜工坊：一款在线手写模拟工具，在线生成模拟手写文稿&lt;br/&gt;&lt;br/&gt;可以把 Word 文档转成手写样式 PDF&lt;br/&gt;&lt;br/&gt;也支持 PDF、照片指定区域处理、纸张和排版调整，&lt;br/&gt;&lt;br/&gt;还能根据自己的手写样本生成专属字体&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/15383/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/15383/&lt;/a&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/DI6l61zWLANaWc4WgZXxLAGE3tAeIrYo8BT12m-hr8XPGBeczDN5MoZekO2nZhxdSAEINqwYlkMq8KLVSDLZ0kN09zy619rBE3YMtrL-WRz2CIzgzG4o0q3jLfMpW8LzvDLlMJq5alLElA9EPwwJkX2vanvlvhdp9eFPqDWxvW6CIIwuFSxmCl4Qe0pB15ZWfmsSZv8vmY7DcsELmy5dF6-BaTYr19_F0SHIN-64iNdf_xetnnAxZHf7uIux1CFG_Y0nQCkB7wehHqIPgL0UcvY5Dw1ttaRnCQAUKWIlI9pbWq8zb32Knc7pumFbsbBH6SyGu5u5tpfsMR7g6YGVkQ.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;萝卜工坊：一款在线手写模拟工具，在线生成模拟手写文稿&lt;br/&gt;&lt;br/&gt;可以把 Word 文档转成手写样式 PDF&lt;br/&gt;&lt;br/&gt;也支持 PDF、照片指定区域处理、纸张和排版调整，&lt;br/&gt;&lt;br/&gt;还能根据自己的手写样本生成专属字体&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/15383/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/15383/&lt;/a&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/DI6l61zWLANaWc4WgZXxLAGE3tAeIrYo8BT12m-hr8XPGBeczDN5MoZekO2nZhxdSAEINqwYlkMq8KLVSDLZ0kN09zy619rBE3YMtrL-WRz2CIzgzG4o0q3jLfMpW8LzvDLlMJq5alLElA9EPwwJkX2vanvlvhdp9eFPqDWxvW6CIIwuFSxmCl4Qe0pB15ZWfmsSZv8vmY7DcsELmy5dF6-BaTYr19_F0SHIN-64iNdf_xetnnAxZHf7uIux1CFG_Y0nQCkB7wehHqIPgL0UcvY5Dw1ttaRnCQAUKWIlI9pbWq8zb32Knc7pumFbsbBH6SyGu5u5tpfsMR7g6YGVkQ.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/abskoop/13093</guid>
-      <pubDate>Fri, 09 Oct 2026 10:11:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
