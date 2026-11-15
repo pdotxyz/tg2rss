@@ -36,3 +36,5 @@ jnu983
 fingraph66
 jobstash
 echojobs_io
+jobs_web3
+remotejobs
