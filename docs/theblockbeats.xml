@@ -6,7 +6,15 @@
     <description>Posts from t.me/theblockbeats</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 16:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:46:02 +0000</lastBuildDate>
+    <item>
+      <title>CNBC：英伟达董事会目前不考虑让黄仁勋重新出任CEO BlockBeats 消息，11 月 17 日，据 CNBC 报道，英伟达董事会目前没有考虑让黄仁勋重新</title>
+      <link>https://t.me/theblockbeats/206250</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;CNBC：英伟达董事会目前不考虑让黄仁勋重新出任CEO&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 17 日，据 CNBC 报道，英伟达董事会目前没有考虑让黄仁勋重新出任首席执行官。&lt;br/&gt;&lt;br/&gt;据 BIT 股票平台数据显示，截至发稿时，英伟达盘中下跌 3.65%，股价暂报 156.9 美元。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377643?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377643&lt;/a&gt;&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;CNBC：英伟达董事会目前不考虑让黄仁勋重新出任CEO&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 17 日，据 CNBC 报道，英伟达董事会目前没有考虑让黄仁勋重新出任首席执行官。&lt;br/&gt;&lt;br/&gt;据 BIT 股票平台数据显示，截至发稿时，英伟达盘中下跌 3.65%，股价暂报 156.9 美元。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377643?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377643&lt;/a&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/theblockbeats/206250</guid>
+      <pubDate>Mon, 16 Nov 2026 17:46:02 +0000</pubDate>
+    </item>
     <item>
       <title>英伟达推出Nemotron for Science，开放近5万题化学数据集并给出后训练配方 BlockBeats 消息，11 月 17 日，据英伟达官方新闻稿，</title>
       <link>https://t.me/theblockbeats/206249</link>
@@ -158,14 +166,6 @@
       <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;AMD完成对World Labs的收购，李飞飞出任首席科学家&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 16 日，据 The Defiant 报道，AMD 已完成对空间智能公司 World Labs 的收购，后者联合创始人李飞飞加入 AMD，出任执行副总裁兼首席科学家，直接向董事长兼首席执行官 Lisa Su（苏姿丰）汇报。&lt;br/&gt;&lt;br/&gt;这笔全股票交易于 9 月宣布，当时估值约为 82 亿美元。World Labs 开发用于创建和模拟交互式 3D 环境的 AI 模型，以及机器人学习和模拟技术。其团队将继续开展基础模型研究，并与 AMD 工程师合作，将研究成果应用于未来的硬件、软件和系统。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377624?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377624&lt;/a&gt;&lt;/div&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/theblockbeats/206231</guid>
       <pubDate>Mon, 16 Nov 2026 14:18:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>SemiAnalysis研报：为什么下调芯片需求预期，并大幅下修英伟达收入预期？ - 链接</title>
-      <link>https://t.me/theblockbeats/206230</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SemiAnalysis研报：为什么下调芯片需求预期，并大幅下修英伟达收入预期？&lt;a href="https://m.theblockbeats.info/news/64148?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt; - 链接&lt;/a&gt;&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SemiAnalysis研报：为什么下调芯片需求预期，并大幅下修英伟达收入预期？&lt;a href="https://m.theblockbeats.info/news/64148?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt; - 链接&lt;/a&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/theblockbeats/206230</guid>
-      <pubDate>Mon, 16 Nov 2026 14:16:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
