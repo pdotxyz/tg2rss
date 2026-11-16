@@ -6,7 +6,31 @@
     <description>Posts from t.me/theblockbeats</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 15:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:20:02 +0000</lastBuildDate>
+    <item>
+      <title>英伟达推出Nemotron for Science，开放近5万题化学数据集并给出后训练配方 BlockBeats 消息，11 月 17 日，据英伟达官方新闻稿，</title>
+      <link>https://t.me/theblockbeats/206249</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;英伟达推出Nemotron for Science，开放近5万题化学数据集并给出后训练配方&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 17 日，据英伟达官方新闻稿，该公司推出 NVIDIA Nemotron for Science，将开源模型 Nemotron 3.5 Super VL、全新开放化学数据集及后训练配方整合在一起，帮助研究人员构建面向科学发现的专用智能体。其中，开放数据集 LitmusBench v0.2 含近 5 万道化学推理题目，数据来源于分子性质与实验药物发现，可用于训练和评估模型对溶解度、人体代谢等分子行为的预测。该模型与数据集现已在 Hugging Face 上线，并针对 128GB NVIDIA DGX Spark 系统做了本地运行优化。&lt;br/&gt;&lt;br/&gt;生命科学公司 Lila Sciences、Terray Therapeutics 和 Therna 正在使用并定制该模型。Terray 后训练后用于从科学图表中提取反应物、产物和反应条件，在 RxnScribe 测试中按该基准匹配标准找回约 76% 的标注反应。Lila Sciences 用其设计可执行实验方案，称无需额外微调即可达到与前沿模型相当的表现；结合实验室反馈后训练后，制备量子点的准确率几乎翻倍至 61%，超过 GPT-6 Astra 的 54%，推理成本约为后者的十分之一至二十分之一。Therna 与英伟达合作后训练用于 mRNA 治疗设计，称预测蛋白质表达范围的准确率较前沿模型几乎翻倍，科学家在 96% 的对比中更偏好其解释。&lt;br/&gt;&lt;br/&gt;美国能源部阿贡国家实验室正将其整合进 StructBioReasoner 多智能体系统，用于设计和评估癌症等疾病的蛋白质候选疗法，于利希超级计算中心也在接入该模型。瑞典皇家理工学院基于该模型构建了可自行修复损坏 GROMACS 分子动力学设置的智能体，在单台 DGX Spark 上通宵运行并开启推理后，修复了 81% 的测试用例，且均由 GROMACS 独立核验。理化学研究所已通过推理网关 RiVault，在 RIKYU AI 超算平台上提供包括 Nemotron 3.5 Super VL 在内的模型。英伟达超大规模与高性能计算副总裁 Ian Buck 表示，该方案为研究人员提供开源模型、科学数据和后训练配方，以构建能推理科学问题并调用 CUDA-X 加速工具的专用智能体。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377642?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377642&lt;/a&gt;&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;英伟达推出Nemotron for Science，开放近5万题化学数据集并给出后训练配方&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 17 日，据英伟达官方新闻稿，该公司推出 NVIDIA Nemotron for Science，将开源模型 Nemotron 3.5 Super VL、全新开放化学数据集及后训练配方整合在一起，帮助研究人员构建面向科学发现的专用智能体。其中，开放数据集 LitmusBench v0.2 含近 5 万道化学推理题目，数据来源于分子性质与实验药物发现，可用于训练和评估模型对溶解度、人体代谢等分子行为的预测。该模型与数据集现已在 Hugging Face 上线，并针对 128GB NVIDIA DGX Spark 系统做了本地运行优化。&lt;br/&gt;&lt;br/&gt;生命科学公司 Lila Sciences、Terray Therapeutics 和 Therna 正在使用并定制该模型。Terray 后训练后用于从科学图表中提取反应物、产物和反应条件，在 RxnScribe 测试中按该基准匹配标准找回约 76% 的标注反应。Lila Sciences 用其设计可执行实验方案，称无需额外微调即可达到与前沿模型相当的表现；结合实验室反馈后训练后，制备量子点的准确率几乎翻倍至 61%，超过 GPT-6 Astra 的 54%，推理成本约为后者的十分之一至二十分之一。Therna 与英伟达合作后训练用于 mRNA 治疗设计，称预测蛋白质表达范围的准确率较前沿模型几乎翻倍，科学家在 96% 的对比中更偏好其解释。&lt;br/&gt;&lt;br/&gt;美国能源部阿贡国家实验室正将其整合进 StructBioReasoner 多智能体系统，用于设计和评估癌症等疾病的蛋白质候选疗法，于利希超级计算中心也在接入该模型。瑞典皇家理工学院基于该模型构建了可自行修复损坏 GROMACS 分子动力学设置的智能体，在单台 DGX Spark 上通宵运行并开启推理后，修复了 81% 的测试用例，且均由 GROMACS 独立核验。理化学研究所已通过推理网关 RiVault，在 RIKYU AI 超算平台上提供包括 Nemotron 3.5 Super VL 在内的模型。英伟达超大规模与高性能计算副总裁 Ian Buck 表示，该方案为研究人员提供开源模型、科学数据和后训练配方，以构建能推理科学问题并调用 CUDA-X 加速工具的专用智能体。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377642?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377642&lt;/a&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/theblockbeats/206249</guid>
+      <pubDate>Mon, 16 Nov 2026 16:20:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux内核漏洞或影响Solana验证者，建议立即升级内核或临时关闭SYN Cookies BlockBeats 消息，11 月 17 日，近日披露的 Lin</title>
+      <link>https://t.me/theblockbeats/206248</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Linux内核漏洞或影响Solana验证者，建议立即升级内核或临时关闭SYN Cookies&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 17 日，近日披露的 Linux 内核漏洞 CVE-2026-99288，又称 NoisyTCP，需要所有已质押及未质押的 Solana 验证者立即采取措施，相关说明适用于全部 Agave 或 Firedancer 节点。运营方应在其所用发行版提供补丁后尽快升级至已修复的 Linux 内核。验证者节点无需因下述临时配置而重启。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377641?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377641&lt;/a&gt;&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Linux内核漏洞或影响Solana验证者，建议立即升级内核或临时关闭SYN Cookies&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 17 日，近日披露的 Linux 内核漏洞 CVE-2026-99288，又称 NoisyTCP，需要所有已质押及未质押的 Solana 验证者立即采取措施，相关说明适用于全部 Agave 或 Firedancer 节点。运营方应在其所用发行版提供补丁后尽快升级至已修复的 Linux 内核。验证者节点无需因下述临时配置而重启。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377641?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377641&lt;/a&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/theblockbeats/206248</guid>
+      <pubDate>Mon, 16 Nov 2026 16:12:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>英伟达和IBM与费米实验室合作，推进量子计算发展 BlockBeats 消息，11 月 17 日，据官方消息，英伟达宣布与 IBM 以及费米国家加速器实验室（F</title>
+      <link>https://t.me/theblockbeats/206247</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;英伟达和IBM与费米实验室合作，推进量子计算发展&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 17 日，据官方消息，英伟达宣布与 IBM 以及费米国家加速器实验室（Fermilab）达成合作，共同推出一个量子-经典协同设计（quantum-classical codesign）平台。该倡议还包括一项据报道取得的量子纠错（quantum error-correction）突破，旨在推进实用量子计算的发展。此次合作旨在加速经典计算与量子系统的融合，解决在开发具有商业可行性的量子技术过程中面临的关键技术挑战。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377640?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377640&lt;/a&gt;&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;英伟达和IBM与费米实验室合作，推进量子计算发展&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 17 日，据官方消息，英伟达宣布与 IBM 以及费米国家加速器实验室（Fermilab）达成合作，共同推出一个量子-经典协同设计（quantum-classical codesign）平台。该倡议还包括一项据报道取得的量子纠错（quantum error-correction）突破，旨在推进实用量子计算的发展。此次合作旨在加速经典计算与量子系统的融合，解决在开发具有商业可行性的量子技术过程中面临的关键技术挑战。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377640?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377640&lt;/a&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/theblockbeats/206247</guid>
+      <pubDate>Mon, 16 Nov 2026 16:05:02 +0000</pubDate>
+    </item>
     <item>
       <title>德国联邦议院通过法案，海关可在未立案前冻结超10万欧元来源不明加密资产 BlockBeats 消息，11 月 16 日，据 CoinDesk 报道，德国联邦议院</title>
       <link>https://t.me/theblockbeats/206246</link>
@@ -142,30 +166,6 @@
       <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;SemiAnalysis研报：为什么下调芯片需求预期，并大幅下修英伟达收入预期？&lt;a href="https://m.theblockbeats.info/news/64148?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt; - 链接&lt;/a&gt;&lt;/div&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/theblockbeats/206230</guid>
       <pubDate>Mon, 16 Nov 2026 14:16:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>纽交所母公司ICE考虑担任Solana验证者，其ATS已可接收Solana代币 BlockBeats 消息，11 月 16 日，ICE Clear Europe</title>
-      <link>https://t.me/theblockbeats/206229</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;纽交所母公司ICE考虑担任Solana验证者，其ATS已可接收Solana代币&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 16 日，ICE Clear Europe 总裁 Hester Serafini 在 Solana Breakpoint 2026 表示：「纽交所的这一替代交易系统（ATS）已经设置好，可以接收在 Solana 上铸造的代币。」Hester Serafini 还表示：「我们在 ICE Digital Trust 上也已经支持 Solana，并且正在研究是否能够成为 Solana 的验证者。」&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377623?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377623&lt;/a&gt;&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;纽交所母公司ICE考虑担任Solana验证者，其ATS已可接收Solana代币&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 16 日，ICE Clear Europe 总裁 Hester Serafini 在 Solana Breakpoint 2026 表示：「纽交所的这一替代交易系统（ATS）已经设置好，可以接收在 Solana 上铸造的代币。」Hester Serafini 还表示：「我们在 ICE Digital Trust 上也已经支持 Solana，并且正在研究是否能够成为 Solana 的验证者。」&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377623?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377623&lt;/a&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/theblockbeats/206229</guid>
-      <pubDate>Mon, 16 Nov 2026 14:14:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic的7位联创将通过持有无经济权利「F类股」，保证对公司一般决策的绝对控制权 BlockBeats 消息，11 月 16 日，据 ibtimes </title>
-      <link>https://t.me/theblockbeats/206228</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Anthropic的7位联创将通过持有无经济权利「F类股」，保证对公司一般决策的绝对控制权&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 16 日，据 ibtimes 报道，Anthropic 的七位联合创始人将通过持有一类无经济权利的「F 类股」，在上市后保留公司 50.1% 的普通股东投票权，从而确保对公司一般决策的绝对控制权。与此同时，成立于 2023 年的独立「长期利益信托」将拥有任命七人董事会中四名董事的权力，以确保公司在追求商业利润的同时，坚守 AI 安全与公共利益的初衷。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377622?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377622&lt;/a&gt;&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;Anthropic的7位联创将通过持有无经济权利「F类股」，保证对公司一般决策的绝对控制权&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 16 日，据 ibtimes 报道，Anthropic 的七位联合创始人将通过持有一类无经济权利的「F 类股」，在上市后保留公司 50.1% 的普通股东投票权，从而确保对公司一般决策的绝对控制权。与此同时，成立于 2023 年的独立「长期利益信托」将拥有任命七人董事会中四名董事的权力，以确保公司在追求商业利润的同时，坚守 AI 安全与公共利益的初衷。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377622?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377622&lt;/a&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/theblockbeats/206228</guid>
-      <pubDate>Mon, 16 Nov 2026 14:12:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI计划以至少50亿美元价格收购GoodFire BlockBeats 消息，11 月 16 日，据市场消息，OpenAI 计划以至少 50 亿美元的价</title>
-      <link>https://t.me/theblockbeats/206227</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;OpenAI计划以至少50亿美元价格收购GoodFire&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 16 日，据市场消息，OpenAI 计划以至少 50 亿美元的价格收购 GoodFire。&lt;br/&gt;&lt;br/&gt;GoodFire（通常写作 Goodfire）是一家专注于机制可解释性（Mechanistic Interpretability）的 AI 研究实验室，核心目标是为大模型做「脑部扫描」，打开 AI 的「黑箱」，让模型的内部决策过程变得可理解、可调试、可控制。它由来自 OpenAI 和 Google DeepMind 可解释性团队的研究人员于 2024 年创立，团队成员大多来自这两家前沿实验室及顶尖高校。其核心技术平台（如 Silico 和 Ember）能让开发者深入模型内部，观察神经元和通路的活动，甚至在训练过程中直接调整参数来改变模型行为，例如已经实现了将大模型幻觉减少一半。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377621?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377621&lt;/a&gt;&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;b&gt;OpenAI计划以至少50亿美元价格收购GoodFire&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;BlockBeats 消息，11 月 16 日，据市场消息，OpenAI 计划以至少 50 亿美元的价格收购 GoodFire。&lt;br/&gt;&lt;br/&gt;GoodFire（通常写作 Goodfire）是一家专注于机制可解释性（Mechanistic Interpretability）的 AI 研究实验室，核心目标是为大模型做「脑部扫描」，打开 AI 的「黑箱」，让模型的内部决策过程变得可理解、可调试、可控制。它由来自 OpenAI 和 Google DeepMind 可解释性团队的研究人员于 2024 年创立，团队成员大多来自这两家前沿实验室及顶尖高校。其核心技术平台（如 Silico 和 Ember）能让开发者深入模型内部，观察神经元和通路的活动，甚至在训练过程中直接调整参数来改变模型行为，例如已经实现了将大模型幻觉减少一半。&lt;br/&gt;&lt;br/&gt;原文链接 &lt;a href="https://m.theblockbeats.info/flash/377621?from=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;https://m.theblockbeats.info/flash/377621&lt;/a&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/theblockbeats/206227</guid>
-      <pubDate>Mon, 16 Nov 2026 14:05:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
