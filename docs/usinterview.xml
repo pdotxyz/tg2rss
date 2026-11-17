@@ -6,7 +6,15 @@
     <description>Posts from t.me/usinterview</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 03:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:30:05 +0000</lastBuildDate>
+    <item>
+      <title>Crusoe Inference Engineer 挂经 https://www.1point3acres.com/bbs/thread-1197331-1-1</title>
+      <link>https://t.me/usinterview/30584</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Crusoe Inference Engineer 挂经&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197331-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197331-1-1.html&lt;/a&gt; &lt;a href="?q=%23crusoe"&gt;#crusoe&lt;/a&gt; 码农类General@全职 Onsite  在职跳槽&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Crusoe Inference Engineer 挂经&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197331-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197331-1-1.html&lt;/a&gt; &lt;a href="?q=%23crusoe"&gt;#crusoe&lt;/a&gt; 码农类General@全职 Onsite  在职跳槽&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/usinterview/30584</guid>
+      <pubDate>Tue, 17 Nov 2026 04:30:05 +0000</pubDate>
+    </item>
     <item>
       <title>Docker Senior SWE (AI Developer Tools) 面经（二）：Manager 面 + Coding 面 https://www.1p</title>
       <link>https://t.me/usinterview/30583</link>
@@ -158,14 +166,6 @@
       <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;指南针 VO&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197081-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197081-1-1.html&lt;/a&gt; &lt;a href="?q=%23compass"&gt;#compass&lt;/a&gt; 码农类General@全职 Onsite  在职跳槽&lt;/div&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/usinterview/30565</guid>
       <pubDate>Sat, 14 Nov 2026 21:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Phone Interview - Software Engineer https://www.1point3acres.com/bbs/thre</title>
-      <link>https://t.me/usinterview/30564</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Google Phone Interview - Software Engineer&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197067-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197067-1-1.html&lt;/a&gt; &lt;a href="?q=%23google"&gt;#google&lt;/a&gt; 码农类General@全职 技术电面  在职跳槽&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Google Phone Interview - Software Engineer&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197067-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197067-1-1.html&lt;/a&gt; &lt;a href="?q=%23google"&gt;#google&lt;/a&gt; 码农类General@全职 技术电面  在职跳槽&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/usinterview/30564</guid>
-      <pubDate>Sat, 14 Nov 2026 19:30:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
