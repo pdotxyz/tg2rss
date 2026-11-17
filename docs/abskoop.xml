@@ -6,7 +6,17 @@
     <description>Posts from t.me/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Nov 2026 14:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:07:45 +0000</lastBuildDate>
+    <item>
+      <title>DS Bot：把多个 AI Agent 组织成一个团队的开源协作工具。 基于 DeepSeek Harness，通过 Chief 统一协调不同 AI 助手，支持</title>
+      <link>https://t.me/abskoop/13114</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;DS Bot：把多个 AI Agent 组织成一个团队的开源协作工具。&lt;br/&gt;&lt;br/&gt;基于 DeepSeek Harness，通过 Chief 统一协调不同 AI 助手，支持 Bot 群聊、@任务委派、Goal 目标管理、独立记忆和工作目录。&lt;br/&gt;&lt;br/&gt;还能接入已有的 Claude Code、Codex CLI、Cursor CLI 等本地编程 Agent。&lt;br/&gt;&lt;br/&gt;和偏向云端 AI 员工服务的 Grok Bot 不同，DS Bot 更侧重本地 Agent 的组织与协作，支持 Windows、macOS、Linux 桌面端及 Docker 自托管部署。&lt;br/&gt;&lt;br/&gt;Apache 2.0 开源，软件免费，模型费用自理，多 Bot 协作也可能增加 Token 消耗。&lt;br/&gt;&lt;br/&gt;适合已经在用多个 AI Agent，希望统一管理、分工执行任务的用户。&lt;br/&gt;&lt;br/&gt;ZH&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/98625/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/98625/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;EN&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/en/98652/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/en/98652/&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/lUkFXMuNoRvnAKu6CNVugd-qLD3ZsJmRAR-8E4M7abuo2o-gkacqqZJxwhxDYD0L8gMvjakgZt7lmfR4YLNRR_pw0jmKwlwhQcq9ugokPyiCxwbxTymNH19Qa8klkq5pxCSDWphYG__c3k8BrvkJb5i5cWMB22VF3V-7cvswtmjGCWz1Hx03GOBvD7PD2xBhWeeBiAAPtOEOPEdmxN4U_ogZ8205QEtPBXBzMa1wabD0dGcDufVMmwLWK4qooQnVP9Z7-s2I7kI7u_FrdnGSf3ztLjLeJgWWM-GoHni2qzdekDtHpe3EYTLs8_CVf437jzrW0l_WRELY9ulCVC3Jag.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;DS Bot：把多个 AI Agent 组织成一个团队的开源协作工具。&lt;br/&gt;&lt;br/&gt;基于 DeepSeek Harness，通过 Chief 统一协调不同 AI 助手，支持 Bot 群聊、@任务委派、Goal 目标管理、独立记忆和工作目录。&lt;br/&gt;&lt;br/&gt;还能接入已有的 Claude Code、Codex CLI、Cursor CLI 等本地编程 Agent。&lt;br/&gt;&lt;br/&gt;和偏向云端 AI 员工服务的 Grok Bot 不同，DS Bot 更侧重本地 Agent 的组织与协作，支持 Windows、macOS、Linux 桌面端及 Docker 自托管部署。&lt;br/&gt;&lt;br/&gt;Apache 2.0 开源，软件免费，模型费用自理，多 Bot 协作也可能增加 Token 消耗。&lt;br/&gt;&lt;br/&gt;适合已经在用多个 AI Agent，希望统一管理、分工执行任务的用户。&lt;br/&gt;&lt;br/&gt;ZH&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/98625/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/98625/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;EN&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;a href="https://www.ahhhhfs.com/en/98652/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/en/98652/&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/lUkFXMuNoRvnAKu6CNVugd-qLD3ZsJmRAR-8E4M7abuo2o-gkacqqZJxwhxDYD0L8gMvjakgZt7lmfR4YLNRR_pw0jmKwlwhQcq9ugokPyiCxwbxTymNH19Qa8klkq5pxCSDWphYG__c3k8BrvkJb5i5cWMB22VF3V-7cvswtmjGCWz1Hx03GOBvD7PD2xBhWeeBiAAPtOEOPEdmxN4U_ogZ8205QEtPBXBzMa1wabD0dGcDufVMmwLWK4qooQnVP9Z7-s2I7kI7u_FrdnGSf3ztLjLeJgWWM-GoHni2qzdekDtHpe3EYTLs8_CVf437jzrW0l_WRELY9ulCVC3Jag.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/abskoop/13114</guid>
+      <pubDate>Tue, 17 Nov 2026 08:07:45 +0000</pubDate>
+    </item>
     <item>
       <title>开源堡垒机 Casvisor：一款可自托管的 SSH 跳板机（Bastion Host），用于集中管理 Linux / Windows 服务器。 支持 SSH、</title>
       <link>https://t.me/abskoop/13113</link>
@@ -196,16 +206,6 @@
 &lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/PpsY2aztoWFdhSo8R43VPCkbz7DZTcGtKqV36c18nm6JvgYgPjLw2X7oX9MM2vplck2o0wrpc2_8h7r3XaqPraHkNuicDroUFaqa5skWYrAoYYwQrNYHlcUzitE8J4Wme-cu3iCD5A7SsJWNpFEaOa9fwqBYSzCTnvjjphyULUcaB3_q7pmD_1d9eR1vTrPxr0uoIGUuyul2x4sBZ4nTS9Ftf4TU09mYtLeFjkmcH7iXy_kNJiMnkrecfJDRL5CtfEeU3xMhrf2Keam9ply5Ttvxb4Ov8ARwHZm8vDy-4W6kYPz-VOPHp2hfDmJzyIVT8N_OiKGo49ZEgYxw0hGS_w.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/abskoop/13095</guid>
       <pubDate>Mon, 12 Oct 2026 10:23:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>发现一个挺适合校招、实习和集中求职时用的开源 AI简历工具：录阶 LuJie CareerKit 它不只是帮你改简历，还能把 JD 匹配、多版本简历、投递进度、</title>
-      <link>https://t.me/abskoop/13094</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;发现一个挺适合校招、实习和集中求职时用的开源 AI简历工具：录阶 LuJie CareerKit&lt;br/&gt;&lt;br/&gt;它不只是帮你改简历，还能把 JD 匹配、多版本简历、投递进度、面试准备和模拟面试放在同一个工作台里。&lt;br/&gt;&lt;br/&gt;支持 Docker 自托管、OpenAI 兼容模型，还提供 Codex / Claude Code 可复用的 Agent Skills。&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;&lt;a href="https://www.ahhhhfs.com/84113/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/84113/&lt;/a&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/gtSKy9RJQ5q4pEnRT7dXsKZ3UXE8ECiRJEAGDu4i0nQp50Oe9fRXwDENVZ3abbnrNi-7-xbhO13KuDk6NGJYjrXmOJOgblM0uPAkz9yO-ORODniCQ9zPN8uZckAfHKgbisB8kGjZO1gV99v0REzaPt1sRJ93EyegIoWBmbL0AQ2-NLBdpkqCFme46XoECfau6nMg44E20qv2_oujEyNnSFWY5PKn-q_YI1Cpao5WnPQz5bXI7xFl1hPsdaN_1cniO4saiRY-BXqXTccvCnSISTZF47ilA_YFtassA1pgugxnUumvStqtXYRT_Oc2MUaf2WwrgvcINj0_EhIww4GK7w.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;发现一个挺适合校招、实习和集中求职时用的开源 AI简历工具：录阶 LuJie CareerKit&lt;br/&gt;&lt;br/&gt;它不只是帮你改简历，还能把 JD 匹配、多版本简历、投递进度、面试准备和模拟面试放在同一个工作台里。&lt;br/&gt;&lt;br/&gt;支持 Docker 自托管、OpenAI 兼容模型，还提供 Codex / Claude Code 可复用的 Agent Skills。&lt;br/&gt;&lt;br/&gt;&lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt;&lt;a href="https://www.ahhhhfs.com/84113/" rel="noopener" target="_blank"&gt;https://www.ahhhhfs.com/84113/&lt;/a&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/gtSKy9RJQ5q4pEnRT7dXsKZ3UXE8ECiRJEAGDu4i0nQp50Oe9fRXwDENVZ3abbnrNi-7-xbhO13KuDk6NGJYjrXmOJOgblM0uPAkz9yO-ORODniCQ9zPN8uZckAfHKgbisB8kGjZO1gV99v0REzaPt1sRJ93EyegIoWBmbL0AQ2-NLBdpkqCFme46XoECfau6nMg44E20qv2_oujEyNnSFWY5PKn-q_YI1Cpao5WnPQz5bXI7xFl1hPsdaN_1cniO4saiRY-BXqXTccvCnSISTZF47ilA_YFtassA1pgugxnUumvStqtXYRT_Oc2MUaf2WwrgvcINj0_EhIww4GK7w.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/abskoop/13094</guid>
-      <pubDate>Sat, 10 Oct 2026 10:48:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
