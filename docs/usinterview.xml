@@ -6,7 +6,15 @@
     <description>Posts from t.me/usinterview</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 15:08:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:30:06 +0000</lastBuildDate>
+    <item>
+      <title>fin tech 面经 https://www.1point3acres.com/bbs/thread-1197509-1-1.html #plaid 码农类G</title>
+      <link>https://t.me/usinterview/30603</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;fin tech 面经&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197509-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197509-1-1.html&lt;/a&gt; &lt;a href="?q=%23plaid"&gt;#plaid&lt;/a&gt; 码农类General@全职 技术电面  在职跳槽&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;fin tech 面经&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197509-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197509-1-1.html&lt;/a&gt; &lt;a href="?q=%23plaid"&gt;#plaid&lt;/a&gt; 码农类General@全职 技术电面  在职跳槽&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/usinterview/30603</guid>
+      <pubDate>Wed, 18 Nov 2026 17:30:06 +0000</pubDate>
+    </item>
     <item>
       <title>开花堡三轮面筋 https://www.1point3acres.com/bbs/thread-1197498-1-1.html #bloomberg 码农类G</title>
       <link>https://t.me/usinterview/30602</link>
@@ -158,14 +166,6 @@
       <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Crusoe Inference Engineer 挂经&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197331-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197331-1-1.html&lt;/a&gt; &lt;a href="?q=%23crusoe"&gt;#crusoe&lt;/a&gt; 码农类General@全职 Onsite  在职跳槽&lt;/div&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/usinterview/30584</guid>
       <pubDate>Tue, 17 Nov 2026 04:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docker Senior SWE (AI Developer Tools) 面经（二）：Manager 面 + Coding 面 https://www.1p</title>
-      <link>https://t.me/usinterview/30583</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Docker Senior SWE (AI Developer Tools) 面经（二）：Manager 面 + Coding 面&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197328-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197328-1-1.html&lt;/a&gt; &lt;a href="?q=%23extrahop"&gt;#extrahop&lt;/a&gt;-networks 码农类General@全职 视频面试  在职跳槽&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Docker Senior SWE (AI Developer Tools) 面经（二）：Manager 面 + Coding 面&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197328-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197328-1-1.html&lt;/a&gt; &lt;a href="?q=%23extrahop"&gt;#extrahop&lt;/a&gt;-networks 码农类General@全职 视频面试  在职跳槽&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/usinterview/30583</guid>
-      <pubDate>Tue, 17 Nov 2026 03:30:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
