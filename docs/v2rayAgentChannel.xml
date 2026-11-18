@@ -6,7 +6,15 @@
     <description>Posts from t.me/v2rayAgentChannel</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 13:11:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:52:08 +0000</lastBuildDate>
+    <item>
+      <title>程序员转什么行业比较好？</title>
+      <link>https://t.me/v2rayAgentChannel/2168</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;程序员转什么行业比较好？&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;程序员转什么行业比较好？&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2168</guid>
+      <pubDate>Wed, 18 Nov 2026 10:52:08 +0000</pubDate>
+    </item>
     <item>
       <title>ZgoCloud补货新洛杉矶三网精品线路机，上游netlab，机器总体还是不错的，算是比较便宜的三网精品机了，支持3天内流量不超过10G全额退款： 线路：CN2</title>
       <link>https://t.me/v2rayAgentChannel/2167</link>
@@ -158,14 +166,6 @@
       <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;ZgoCloud德国三网9929线路机型，持3天内流量不超过10G全额退款：&lt;br/&gt;&lt;br/&gt;1 Core AMD&lt;br/&gt;1 GB DDR4 RAM&lt;br/&gt;10G NVMe SSD&lt;br/&gt;1 IPV4&lt;br/&gt;1T/Month/200Mbps&lt;br/&gt;$45 USD / Year&lt;br/&gt;购买：&lt;a href="https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=160" rel="noopener" target="_blank"&gt;https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=160&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;2 Cores AMD&lt;br/&gt;2 GB DDR4 RAM&lt;br/&gt;20G NVMe SSD&lt;br/&gt;1 IPV4&lt;br/&gt;2T/Month/200Mbps&lt;br/&gt;$88 USD / Year&lt;br/&gt;购买：&lt;a href="https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=161" rel="noopener" target="_blank"&gt;https://clients.zgovps.com/?cmd=cart&amp;amp;action=add&amp;amp;affid=1584&amp;amp;id=161&lt;/a&gt;&lt;/div&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2135</guid>
       <pubDate>Sat, 12 Sep 2026 07:22:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>DMIT的Reality 异常流量检查工具。其实就是错误使用dest域名导致VPS被cloudflare错误转发。 手动检测方法：https:域名:443/cd</title>
-      <link>https://t.me/v2rayAgentChannel/2130</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;DMIT的Reality 异常流量检查工具。其实就是错误使用dest域名导致VPS被cloudflare错误转发。&lt;br/&gt;&lt;br/&gt;手动检测方法：https:域名:443/cdn-cgi/trace 访问只要有响应则代表需要更换。&lt;br/&gt;&lt;br/&gt;如果使用八合一脚本并且使用xray部署则不需要更改（脚本中已使用任意门进行屏蔽转发）。&lt;br/&gt;&lt;br/&gt;如使用sing-box搭建，采用随机域名，如果是 &lt;a href="http://lol.secure.dyn.riotcdn.net%E3%80%81www.java.com/" rel="noopener" target="_blank"&gt;lol.secure.dyn.riotcdn.net、www.java.com&lt;/a&gt; 这两个则需要手动更换，如果是自定义域名需要自行测试是否需要更换。&lt;br/&gt;&lt;br/&gt;脚本中有检测代码，增加任意门屏蔽后被注释，后续会放开。&lt;br/&gt;&lt;br/&gt;Reality 如果不使用 443、2053、2083、2087、2096 和 8443 这些端口则不触发此问题。&lt;br/&gt;&lt;br/&gt;&lt;a href="https://dmit-abuse-team-temp-security-response.dmit.com/" rel="noopener" target="_blank"&gt;https://dmit-abuse-team-temp-security-response.dmit.com&lt;/a&gt;&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;DMIT的Reality 异常流量检查工具。其实就是错误使用dest域名导致VPS被cloudflare错误转发。&lt;br/&gt;&lt;br/&gt;手动检测方法：https:域名:443/cdn-cgi/trace 访问只要有响应则代表需要更换。&lt;br/&gt;&lt;br/&gt;如果使用八合一脚本并且使用xray部署则不需要更改（脚本中已使用任意门进行屏蔽转发）。&lt;br/&gt;&lt;br/&gt;如使用sing-box搭建，采用随机域名，如果是 &lt;a href="http://lol.secure.dyn.riotcdn.net%E3%80%81www.java.com/" rel="noopener" target="_blank"&gt;lol.secure.dyn.riotcdn.net、www.java.com&lt;/a&gt; 这两个则需要手动更换，如果是自定义域名需要自行测试是否需要更换。&lt;br/&gt;&lt;br/&gt;脚本中有检测代码，增加任意门屏蔽后被注释，后续会放开。&lt;br/&gt;&lt;br/&gt;Reality 如果不使用 443、2053、2083、2087、2096 和 8443 这些端口则不触发此问题。&lt;br/&gt;&lt;br/&gt;&lt;a href="https://dmit-abuse-team-temp-security-response.dmit.com/" rel="noopener" target="_blank"&gt;https://dmit-abuse-team-temp-security-response.dmit.com&lt;/a&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/v2rayAgentChannel/2130</guid>
-      <pubDate>Sat, 29 Aug 2026 14:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
