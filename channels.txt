@@ -39,3 +39,4 @@ echojobs_io
 jobs_web3
 remotejobs
 OneMillion_AI
+ooapps
