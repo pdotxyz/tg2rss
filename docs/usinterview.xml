@@ -6,7 +6,15 @@
     <description>Posts from t.me/usinterview</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 03:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 04:00:06 +0000</lastBuildDate>
+    <item>
+      <title>Amazon SDE II OA 面经分享 https://www.1point3acres.com/bbs/thread-1197928-1-1.html #</title>
+      <link>https://t.me/usinterview/30646</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Amazon SDE II OA 面经分享&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197928-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197928-1-1.html&lt;/a&gt; &lt;a href="?q=%23amazon"&gt;#amazon&lt;/a&gt; 码农类General@全职 在线笔试  在职跳槽&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Amazon SDE II OA 面经分享&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197928-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197928-1-1.html&lt;/a&gt; &lt;a href="?q=%23amazon"&gt;#amazon&lt;/a&gt; 码农类General@全职 在线笔试  在职跳槽&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/usinterview/30646</guid>
+      <pubDate>Sun, 22 Nov 2026 04:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>SDE II workday 三轮loop VO 面经 https://www.1point3acres.com/bbs/thread-1197925-1-1.</title>
       <link>https://t.me/usinterview/30645</link>
@@ -158,14 +166,6 @@
       <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;水波纹店面&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197776-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197776-1-1.html&lt;/a&gt; &lt;a href="?q=%23rippling"&gt;#rippling&lt;/a&gt; 码农类General@全职 技术电面  在职跳槽&lt;/div&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/usinterview/30627</guid>
       <pubDate>Fri, 20 Nov 2026 16:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Whatnot 店面挂经 https://www.1point3acres.com/bbs/thread-1197755-1-1.html #whatnot 码</title>
-      <link>https://t.me/usinterview/30626</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Whatnot 店面挂经&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197755-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197755-1-1.html&lt;/a&gt; &lt;a href="?q=%23whatnot"&gt;#whatnot&lt;/a&gt; 码农类General@全职 技术电面  在职跳槽&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Whatnot 店面挂经&lt;br/&gt;&lt;a href="https://www.1point3acres.com/bbs/thread-1197755-1-1.html" rel="noopener" target="_blank"&gt;https://www.1point3acres.com/bbs/thread-1197755-1-1.html&lt;/a&gt; &lt;a href="?q=%23whatnot"&gt;#whatnot&lt;/a&gt; 码农类General@全职 技术电面  在职跳槽&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/usinterview/30626</guid>
-      <pubDate>Fri, 20 Nov 2026 08:30:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
