@@ -6,7 +6,23 @@
     <description>Posts from t.me/vps_soso</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 04:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 08:31:51 +0000</lastBuildDate>
+    <item>
+      <title>Dmit黑五不补货</title>
+      <link>https://t.me/vps_soso/699</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Dmit黑五不补货&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Dmit黑五不补货&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/vps_soso/699</guid>
+      <pubDate>Mon, 23 Nov 2026 08:31:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>黑五？黑五不会补货的</title>
+      <link>https://t.me/vps_soso/698</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;黑五？黑五不会补货的&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;黑五？黑五不会补货的&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/vps_soso/698</guid>
+      <pubDate>Mon, 23 Nov 2026 08:31:00 +0000</pubDate>
+    </item>
     <item>
       <title>手机上如何查看和操作搬瓦工的流量、资源占用、开关机、重置密码、迁移机房。以iOS为例： 1、App Store搜“搬瓦工助手”，安装。 2、进入搬瓦工官网（se</title>
       <link>https://t.me/vps_soso/697</link>
@@ -158,22 +174,6 @@
       <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Dmit EB 线路被打&lt;/div&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/vps_soso/677</guid>
       <pubDate>Sat, 14 Nov 2026 12:53:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>同事在看了</title>
-      <link>https://t.me/vps_soso/676</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;同事在看了&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;同事在看了&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/vps_soso/676</guid>
-      <pubDate>Sat, 14 Nov 2026 12:53:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>莫慌，被打了</title>
-      <link>https://t.me/vps_soso/675</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;莫慌，被打了&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;莫慌，被打了&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/vps_soso/675</guid>
-      <pubDate>Sat, 14 Nov 2026 12:53:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
