@@ -6,7 +6,15 @@
     <description>Posts from t.me/vps_soso</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 15:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:25:46 +0000</lastBuildDate>
+    <item>
+      <title>套餐: 日本KDDI静态家宽 (PID: 12) • 价格变动: ¥199.00/月 👉 ¥299.00/月</title>
+      <link>https://t.me/vps_soso/718</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;套餐: 日本KDDI静态家宽 (PID: 12)&lt;br/&gt;• 价格变动: &lt;code&gt;¥199.00/月&lt;/code&gt; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;b&gt;¥299.00/月&lt;/b&gt;&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;套餐: 日本KDDI静态家宽 (PID: 12)&lt;br/&gt;• 价格变动: &lt;code&gt;¥199.00/月&lt;/code&gt; &lt;i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"&gt;&lt;b&gt;👉&lt;/b&gt;&lt;/i&gt; &lt;b&gt;¥299.00/月&lt;/b&gt;&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/vps_soso/718</guid>
+      <pubDate>Tue, 24 Nov 2026 17:25:46 +0000</pubDate>
+    </item>
     <item>
       <title>❌ 【家宽】以下产品已售罄： 产品: aaitr 区域: 日本 备注: 最便宜的日本独享家宽KDDI 线路: 普通线路(163/4837/cmi) 硬件配置: </title>
       <link>https://t.me/vps_soso/717</link>
@@ -160,14 +168,6 @@
 &lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/CvwOSzWHC8Y-GTw7wpBohShJEN7R6Gp2i-j6j-MOfIzlZg7HmXor6numQt-ke2p5dTH-bFatZWVvt0ZyYirVkuoC6E0D4AjTk77Qih5j6UuGCDSHnbC3rekHotsvQ5U_2xDOO7qh5j9lmel6heGteWVre5XlKCouuRayPoai03wJdRDx-KV8kvyh0AlZiOSCBJhLlPceY42DqgCUXiNfdcTIciTPdWWlC1YKA3XtshjZR3kvqK0B5UmI3P6ctueGcSB6MYGk8SbnP3FqeWIeZ-xdg-quVtBy9dO3EyPFO-jSRQ3z3J9qMhxtULrgqgK7LFnHH0fwhRhLqyDQGp_9tg.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/vps_soso/697</guid>
       <pubDate>Sat, 21 Nov 2026 04:33:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>DMIT 主动安全监测发现，数据中心内少数租户部署了未经授权的代理应用，通过伪造 TLS SNI 握手并借用 Cloudflare 合法域名证书，将未认证的 H</title>
-      <link>https://t.me/vps_soso/696</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;DMIT 主动安全监测发现，数据中心内少数租户部署了未经授权的代理应用，通过伪造 TLS SNI 握手并借用 Cloudflare 合法域名证书，将未认证的 HTTPS 流量回落至 Cloudflare 基础设施，致使相关实例沦为分布式僵尸网络的 C2 代理节点。经内部排查及 Spamhaus 滥用报告印证，我们已确认上述实例存在活跃的 C2 行为；此外，深度流量分析显示，全网相当比例的流量模型符合该利用特征，与数月前我们报告的针对 OpenAI 的恶意流量事件高度相似。&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;DMIT 主动安全监测发现，数据中心内少数租户部署了未经授权的代理应用，通过伪造 TLS SNI 握手并借用 Cloudflare 合法域名证书，将未认证的 HTTPS 流量回落至 Cloudflare 基础设施，致使相关实例沦为分布式僵尸网络的 C2 代理节点。经内部排查及 Spamhaus 滥用报告印证，我们已确认上述实例存在活跃的 C2 行为；此外，深度流量分析显示，全网相当比例的流量模型符合该利用特征，与数月前我们报告的针对 OpenAI 的恶意流量事件高度相似。&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/vps_soso/696</guid>
-      <pubDate>Fri, 20 Nov 2026 08:07:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
