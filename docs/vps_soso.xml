@@ -6,7 +6,15 @@
     <description>Posts from t.me/vps_soso</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 17:25:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:05:34 +0000</lastBuildDate>
+    <item>
+      <title>Automatic translation: 成本已经大幅上涨，包括对我们而言也是如此。因此，很遗憾，我们目前没有计划提供进一步的折扣/促销。</title>
+      <link>https://t.me/vps_soso/719</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Automatic translation:&lt;br/&gt;成本已经大幅上涨，包括对我们而言也是如此。因此，很遗憾，我们目前没有计划提供进一步的折扣/促销。&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;Automatic translation:&lt;br/&gt;成本已经大幅上涨，包括对我们而言也是如此。因此，很遗憾，我们目前没有计划提供进一步的折扣/促销。&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/vps_soso/719</guid>
+      <pubDate>Wed, 25 Nov 2026 03:05:34 +0000</pubDate>
+    </item>
     <item>
       <title>套餐: 日本KDDI静态家宽 (PID: 12) • 价格变动: ¥199.00/月 👉 ¥299.00/月</title>
       <link>https://t.me/vps_soso/718</link>
@@ -158,16 +166,6 @@
       <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;黑五？黑五不会补货的&lt;/div&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/vps_soso/698</guid>
       <pubDate>Mon, 23 Nov 2026 08:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>手机上如何查看和操作搬瓦工的流量、资源占用、开关机、重置密码、迁移机房。以iOS为例： 1、App Store搜“搬瓦工助手”，安装。 2、进入搬瓦工官网（se</title>
-      <link>https://t.me/vps_soso/697</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;手机上如何查看和操作搬瓦工的流量、资源占用、开关机、重置密码、迁移机房。以iOS为例：&lt;br/&gt;1、App Store搜“搬瓦工助手”，安装。&lt;br/&gt;2、进入搬瓦工官网（services界面），会看到 Export all services with privateAPI keys 。&lt;br/&gt;3、点击它，你会看到一串API。分别复制VEID和API_KEY，到“搬瓦工助手”。&lt;br/&gt;4、在“搬瓦工助手”，单击右上角+号，输入VEID和API_KEY，点击添加，你的服务器信息，就出现在这里。&lt;br/&gt;5、在这里，你可以随时随地的查看或操作搬瓦工。&lt;/div&gt;
-&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/CvwOSzWHC8Y-GTw7wpBohShJEN7R6Gp2i-j6j-MOfIzlZg7HmXor6numQt-ke2p5dTH-bFatZWVvt0ZyYirVkuoC6E0D4AjTk77Qih5j6UuGCDSHnbC3rekHotsvQ5U_2xDOO7qh5j9lmel6heGteWVre5XlKCouuRayPoai03wJdRDx-KV8kvyh0AlZiOSCBJhLlPceY42DqgCUXiNfdcTIciTPdWWlC1YKA3XtshjZR3kvqK0B5UmI3P6ctueGcSB6MYGk8SbnP3FqeWIeZ-xdg-quVtBy9dO3EyPFO-jSRQ3z3J9qMhxtULrgqgK7LFnHH0fwhRhLqyDQGp_9tg.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;手机上如何查看和操作搬瓦工的流量、资源占用、开关机、重置密码、迁移机房。以iOS为例：&lt;br/&gt;1、App Store搜“搬瓦工助手”，安装。&lt;br/&gt;2、进入搬瓦工官网（services界面），会看到 Export all services with privateAPI keys 。&lt;br/&gt;3、点击它，你会看到一串API。分别复制VEID和API_KEY，到“搬瓦工助手”。&lt;br/&gt;4、在“搬瓦工助手”，单击右上角+号，输入VEID和API_KEY，点击添加，你的服务器信息，就出现在这里。&lt;br/&gt;5、在这里，你可以随时随地的查看或操作搬瓦工。&lt;/div&gt;
-&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/CvwOSzWHC8Y-GTw7wpBohShJEN7R6Gp2i-j6j-MOfIzlZg7HmXor6numQt-ke2p5dTH-bFatZWVvt0ZyYirVkuoC6E0D4AjTk77Qih5j6UuGCDSHnbC3rekHotsvQ5U_2xDOO7qh5j9lmel6heGteWVre5XlKCouuRayPoai03wJdRDx-KV8kvyh0AlZiOSCBJhLlPceY42DqgCUXiNfdcTIciTPdWWlC1YKA3XtshjZR3kvqK0B5UmI3P6ctueGcSB6MYGk8SbnP3FqeWIeZ-xdg-quVtBy9dO3EyPFO-jSRQ3z3J9qMhxtULrgqgK7LFnHH0fwhRhLqyDQGp_9tg.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/vps_soso/697</guid>
-      <pubDate>Sat, 21 Nov 2026 04:33:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
