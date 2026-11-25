@@ -6,7 +6,15 @@
     <description>Posts from t.me/piracy6</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 11:41:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:48:08 +0000</lastBuildDate>
+    <item>
+      <title>睡一觉让 AI 跑完实验并把论文改到 8.5 分：全开源科研工作流 ARIS 科研人赶投稿期时，最耗精力的往往是反复跑消融实验、核对引用和逐轮改稿。开源项目 A</title>
+      <link>https://t.me/piracy6/36892</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;睡一觉让 AI 跑完实验并把论文改到 8.5 分：全开源科研工作流 &lt;a href="https://github.com/wanshuiyin/auto-claude-code-research-in-sleep" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;ARIS&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;科研人赶投稿期时，最耗精力的往往是反复跑消融实验、核对引用和逐轮改稿。开源项目 ARIS 围绕这一痛点，把文献调研、想法生成、GPU 实验调度、论文撰写、审稿回复（Rebuttal）乃至转投降维，拆解成了 87 个纯 Markdown 格式的可组合技能。&lt;br/&gt;&lt;br/&gt;它最大的设计亮点在于拒绝单一模型“自娱自乐”产生的盲区，默认让 Claude Code 负责快速执行，同时引入独立的 GPT-6-Astra（或 Gemini、DeepSeek 等异构模型）扮演严苛审稿人进行交叉对抗评审，形成“执行-挑刺-修复”的过夜闭环。&lt;br/&gt;&lt;br/&gt;在实测中，该项目曾在一夜 4 轮迭代里跑完 20 多个 GPU 实验，将一篇初稿评分从 5 分推高至 7.5 分；另一篇 ICLR 理论稿也在自动改进中从 4 分升至 8.5 分。&lt;br/&gt;&lt;br/&gt;由于整套逻辑不绑定特定框架，克隆仓库后即可直接软链接进 Claude Code、Codex CLI 或 Cursor 等主流工具使用，并支持搭配本地研究维基（Research Wiki）沉淀失败经验、避免重复踩坑。&lt;br/&gt;&lt;br/&gt;当然，自动化工具能省下几十小时的工程与排版琐事，但无法替代研究者对领域的直觉判断——若初始方向有偏，它只会把错误路线执行得格外完整，更适合已有明确想法、急需高效推进实验与改稿的科研人员。&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;睡一觉让 AI 跑完实验并把论文改到 8.5 分：全开源科研工作流 &lt;a href="https://github.com/wanshuiyin/auto-claude-code-research-in-sleep" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;ARIS&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;科研人赶投稿期时，最耗精力的往往是反复跑消融实验、核对引用和逐轮改稿。开源项目 ARIS 围绕这一痛点，把文献调研、想法生成、GPU 实验调度、论文撰写、审稿回复（Rebuttal）乃至转投降维，拆解成了 87 个纯 Markdown 格式的可组合技能。&lt;br/&gt;&lt;br/&gt;它最大的设计亮点在于拒绝单一模型“自娱自乐”产生的盲区，默认让 Claude Code 负责快速执行，同时引入独立的 GPT-6-Astra（或 Gemini、DeepSeek 等异构模型）扮演严苛审稿人进行交叉对抗评审，形成“执行-挑刺-修复”的过夜闭环。&lt;br/&gt;&lt;br/&gt;在实测中，该项目曾在一夜 4 轮迭代里跑完 20 多个 GPU 实验，将一篇初稿评分从 5 分推高至 7.5 分；另一篇 ICLR 理论稿也在自动改进中从 4 分升至 8.5 分。&lt;br/&gt;&lt;br/&gt;由于整套逻辑不绑定特定框架，克隆仓库后即可直接软链接进 Claude Code、Codex CLI 或 Cursor 等主流工具使用，并支持搭配本地研究维基（Research Wiki）沉淀失败经验、避免重复踩坑。&lt;br/&gt;&lt;br/&gt;当然，自动化工具能省下几十小时的工程与排版琐事，但无法替代研究者对领域的直觉判断——若初始方向有偏，它只会把错误路线执行得格外完整，更适合已有明确想法、急需高效推进实验与改稿的科研人员。&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/piracy6/36892</guid>
+      <pubDate>Wed, 25 Nov 2026 12:48:08 +0000</pubDate>
+    </item>
     <item>
       <title>AI编程时代：工程基础仍决定能力上限 | arxiv.org 过去两年，“英语是最新的编程语言”这一说法在技术圈广为流传，不少人认为只要用自然语言描述需求并不断</title>
       <link>https://t.me/piracy6/36891</link>
