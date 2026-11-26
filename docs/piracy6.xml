@@ -6,7 +6,17 @@
     <description>Posts from t.me/piracy6</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 11:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:21:29 +0000</lastBuildDate>
+    <item>
+      <title>News ：1password 被黑客入侵 1Password于11月19日开始调查入侵事件，没有说明有多少客户受到影响，但确认被盗数据包括用于登录服务的姓名和</title>
+      <link>https://t.me/piracy6/36913</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;News&lt;/a&gt;：1password 被黑客入侵&lt;br/&gt;&lt;br/&gt;1Password于11月19日开始调查入侵事件，没有说明有多少客户受到影响，但确认被盗数据包括用于登录服务的姓名和电子邮件地址、帐户标识符、显示用户创建和上次访问其帐户的时间戳以及各种非机密帐户元数据。&lt;br/&gt;&lt;br/&gt;该公司坚持认为，客户实际付费保护的信息超出了入侵者的范围。1Password说，“攻击者在任何时候都没有访问或提供给客户库内容。”&lt;br/&gt;&lt;br/&gt;可以说，更令人不安的是，入侵者获得了1Password的持续集成和持续交付（CI/CD）基础设施的访问权限，该基础设施包含用于保持其产品运行的凭据。该公司表示，它已经轮换或撤销了可能暴露的凭据，其应用程序和浏览器扩展程序都没有受到影响。&lt;/div&gt;
+&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/ZJUvHrbo33N_lW_BnXfRo1qbrDHS1zf5k0UIDbpH4QWp5P9Yr3ifgHkfNh_GuLzK9f2U5KV-3iBu5MhHxmLWmFSTTlMusgdBFMPuUdvtamz0kqf82D3a3ohSjmUYz7xMCfRpeOR0HxZrBww_m2R3NyoSEmFXIXLeGIAIXduw4NmOZQ9bpN4X1xDlUhrCchQ20gi1An8-4mA8eNoj-rW_UC5vNOLSxZsaF3EbzDriSZmrLcKTwFeegXZpjSRIY1__MN6uleNDxWrc5RFZU_QEg-dskqMINQYsqoZNZ1BSAQIdpEaBhNa_dZgz8UT9UjfxmEntL0aODKgeAbrJFotbrQ.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;News&lt;/a&gt;：1password 被黑客入侵&lt;br/&gt;&lt;br/&gt;1Password于11月19日开始调查入侵事件，没有说明有多少客户受到影响，但确认被盗数据包括用于登录服务的姓名和电子邮件地址、帐户标识符、显示用户创建和上次访问其帐户的时间戳以及各种非机密帐户元数据。&lt;br/&gt;&lt;br/&gt;该公司坚持认为，客户实际付费保护的信息超出了入侵者的范围。1Password说，“攻击者在任何时候都没有访问或提供给客户库内容。”&lt;br/&gt;&lt;br/&gt;可以说，更令人不安的是，入侵者获得了1Password的持续集成和持续交付（CI/CD）基础设施的访问权限，该基础设施包含用于保持其产品运行的凭据。该公司表示，它已经轮换或撤销了可能暴露的凭据，其应用程序和浏览器扩展程序都没有受到影响。&lt;/div&gt;
+&lt;p&gt;&lt;img src="https://cdn5.telesco.pe/file/ZJUvHrbo33N_lW_BnXfRo1qbrDHS1zf5k0UIDbpH4QWp5P9Yr3ifgHkfNh_GuLzK9f2U5KV-3iBu5MhHxmLWmFSTTlMusgdBFMPuUdvtamz0kqf82D3a3ohSjmUYz7xMCfRpeOR0HxZrBww_m2R3NyoSEmFXIXLeGIAIXduw4NmOZQ9bpN4X1xDlUhrCchQ20gi1An8-4mA8eNoj-rW_UC5vNOLSxZsaF3EbzDriSZmrLcKTwFeegXZpjSRIY1__MN6uleNDxWrc5RFZU_QEg-dskqMINQYsqoZNZ1BSAQIdpEaBhNa_dZgz8UT9UjfxmEntL0aODKgeAbrJFotbrQ.jpg" alt="Telegram post image" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/piracy6/36913</guid>
+      <pubDate>Thu, 26 Nov 2026 21:21:29 +0000</pubDate>
+    </item>
     <item>
       <title>推荐个应用， Bloom 。主要是让你的生活不那么乱。支持中文，主题可切换。安卓的在开发，作者说免费版目前仅支持iPhone 用户。</title>
       <link>https://t.me/piracy6/36903</link>
