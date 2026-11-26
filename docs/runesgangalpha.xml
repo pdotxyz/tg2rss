@@ -6,7 +6,15 @@
     <description>Posts from t.me/runesgangalpha</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 15:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:28:50 +0000</lastBuildDate>
+    <item>
+      <title>AI Agent 真的可以帮你发现并参与一些非常早期的链上机会。 今天上午，我的机会雷达发现了 @towackxyz 的 Genesis 活动，随后交给 Cur</title>
+      <link>https://t.me/runesgangalpha/171</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;AI Agent 真的可以帮你发现并参与一些非常早期的链上机会。&lt;br/&gt;&lt;br/&gt;今天上午，我的机会雷达发现了 &lt;a href="https://t.me/towackxyz" target="_blank"&gt;@towackxyz&lt;/a&gt; 的 Genesis 活动，随后交给 Cursor 核验合约、钱包资格和交易模拟，最终成功领取了 20,000 TWAK，成为第40个领取者。&lt;br/&gt;&lt;br/&gt;成本只有一点 Gas。&lt;br/&gt;&lt;br/&gt;目前代币还不能交易，最终有没有收益尚不清楚。&lt;br/&gt;&lt;br/&gt;我想持续验证的就是这种模式：用 AI 扩大早期机会的发现范围，再用极低的成本参与，持续跟踪结果。&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;AI Agent 真的可以帮你发现并参与一些非常早期的链上机会。&lt;br/&gt;&lt;br/&gt;今天上午，我的机会雷达发现了 &lt;a href="https://t.me/towackxyz" target="_blank"&gt;@towackxyz&lt;/a&gt; 的 Genesis 活动，随后交给 Cursor 核验合约、钱包资格和交易模拟，最终成功领取了 20,000 TWAK，成为第40个领取者。&lt;br/&gt;&lt;br/&gt;成本只有一点 Gas。&lt;br/&gt;&lt;br/&gt;目前代币还不能交易，最终有没有收益尚不清楚。&lt;br/&gt;&lt;br/&gt;我想持续验证的就是这种模式：用 AI 扩大早期机会的发现范围，再用极低的成本参与，持续跟踪结果。&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/runesgangalpha/171</guid>
+      <pubDate>Thu, 26 Nov 2026 04:28:50 +0000</pubDate>
+    </item>
     <item>
       <title>iPhone 里只要有一个恶意 App，就能读走钱包助记词。先看一眼你的 iOS 版本。 这次的漏洞叫 worse_query，是沙盒逃逸：恶意 App 能读到</title>
       <link>https://t.me/runesgangalpha/170</link>
@@ -156,14 +164,6 @@
       <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;DarkHorse Genesis 进度复盘&lt;br/&gt;&lt;br/&gt;官方发了第一篇钱包开发日志：原生 RGB 钱包在内测，闪电网络在 Signet 测试网上跑，为以后的 USDT 充提做准备，主网和 USDT 充提都还没上。&lt;br/&gt;&lt;br/&gt;我的马蹄铁回到榜单第 19（约 4.7 万），拆开看：&lt;br/&gt;· 邀请返佣约 70%（直推完成任务 +200、二级 +50，被邀请人挖矿再分你 10% / 5%）&lt;br/&gt;· 自己挖矿不到一成，虽然算力排第 3&lt;br/&gt;· 骑士、合伙人等奖励约两成多&lt;br/&gt;&lt;br/&gt;怎么参加：&lt;br/&gt;1. 用 X 登录，做完骑士任务拿 1,000 马蹄铁&lt;br/&gt;2. 绑有铭文、符文或 BTC 记录的老钱包（卖掉的也算），最多 5 个地址&lt;br/&gt;3. 每 72 个区块一个周期，没领的部分周期结束作废，要按时领&lt;br/&gt;4. 活动结束按马蹄铁快照发空投和 UDA，现在还不是钱&lt;br/&gt;&lt;br/&gt;入口：&lt;a href="https://genesis.dhorse.fun/share?r=3K8D5C" rel="noopener" target="_blank"&gt;https://genesis.dhorse.fun/share?r=3K8D5C&lt;/a&gt;&lt;br/&gt;官方钱包日志：&lt;a href="https://x.com/RGBHorse/status/2110010465468444731" rel="noopener" target="_blank"&gt;https://x.com/RGBHorse/status/2110010465468444731&lt;/a&gt;&lt;/div&gt;</content:encoded>
       <guid isPermaLink="false">https://t.me/runesgangalpha/152</guid>
       <pubDate>Wed, 14 Oct 2026 01:40:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>多个 AI 一起写代码，git 怎么管 做法：一个和 AI 无关的夜间任务，每晚按 git 的真实状态把所有仓库盘一遍。私有仓库自动提交、同步；动钱的代码只走 </title>
-      <link>https://t.me/runesgangalpha/151</link>
-      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;多个 AI 一起写代码，git 怎么管&lt;br/&gt;&lt;br/&gt;做法：一个和 AI 无关的夜间任务，每晚按 git 的真实状态把所有仓库盘一遍。私有仓库自动提交、同步；动钱的代码只走 PR，合并前换一个模型审；公开仓库只在本地提交，发布前做隐私扫描；只收手写文件，数据、截图、日志不进 git；删东西只按带哈希的批准清单，每项留恢复命令。&lt;br/&gt;&lt;br/&gt;四个坑：&lt;br/&gt;1. macOS 的 cron 读不到钥匙串，gh 和 HTTPS 的 git 在 cron 里拿不到登录，换 launchd&lt;br/&gt;2. LaunchAgent 别设 ProcessType=Background，机器一忙几乎分不到 CPU&lt;br/&gt;3. git status 会拿 index.lock，超时被强杀就留下死锁，自动化里加 GIT_OPTIONAL_LOCKS=0&lt;br/&gt;4. git worktree remove 会静默删掉被忽略的文件，删前先跑 git status --ignored&lt;br/&gt;&lt;br/&gt;原帖：&lt;a href="https://x.com/runes_leo/status/2110058921985704024" rel="noopener" target="_blank"&gt;https://x.com/runes_leo/status/2110058921985704024&lt;/a&gt;&lt;/div&gt;</description>
-      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;多个 AI 一起写代码，git 怎么管&lt;br/&gt;&lt;br/&gt;做法：一个和 AI 无关的夜间任务，每晚按 git 的真实状态把所有仓库盘一遍。私有仓库自动提交、同步；动钱的代码只走 PR，合并前换一个模型审；公开仓库只在本地提交，发布前做隐私扫描；只收手写文件，数据、截图、日志不进 git；删东西只按带哈希的批准清单，每项留恢复命令。&lt;br/&gt;&lt;br/&gt;四个坑：&lt;br/&gt;1. macOS 的 cron 读不到钥匙串，gh 和 HTTPS 的 git 在 cron 里拿不到登录，换 launchd&lt;br/&gt;2. LaunchAgent 别设 ProcessType=Background，机器一忙几乎分不到 CPU&lt;br/&gt;3. git status 会拿 index.lock，超时被强杀就留下死锁，自动化里加 GIT_OPTIONAL_LOCKS=0&lt;br/&gt;4. git worktree remove 会静默删掉被忽略的文件，删前先跑 git status --ignored&lt;br/&gt;&lt;br/&gt;原帖：&lt;a href="https://x.com/runes_leo/status/2110058921985704024" rel="noopener" target="_blank"&gt;https://x.com/runes_leo/status/2110058921985704024&lt;/a&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://t.me/runesgangalpha/151</guid>
-      <pubDate>Tue, 13 Oct 2026 17:25:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
