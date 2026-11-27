@@ -6,7 +6,15 @@
     <description>Posts from t.me/piracy6</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 01:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:06:47 +0000</lastBuildDate>
+    <item>
+      <title>Visualize ： 你可以让它解释任何事情，它为你想象的任何内容提供了很好的可视化体验。</title>
+      <link>https://t.me/piracy6/36915</link>
+      <description>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/Aaryan1524/Visualize" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Visualize&lt;/b&gt;&lt;/a&gt;&lt;b&gt;：&lt;/b&gt;你可以让它解释任何事情，它为你想象的任何内容提供了很好的可视化体验。&lt;/div&gt;</description>
+      <content:encoded>&lt;div class="tgme_widget_message_text js-message_text" dir="auto"&gt;&lt;a href="https://github.com/Aaryan1524/Visualize" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"&gt;&lt;b&gt;Visualize&lt;/b&gt;&lt;/a&gt;&lt;b&gt;：&lt;/b&gt;你可以让它解释任何事情，它为你想象的任何内容提供了很好的可视化体验。&lt;/div&gt;</content:encoded>
+      <guid isPermaLink="false">https://t.me/piracy6/36915</guid>
+      <pubDate>Fri, 27 Nov 2026 02:06:47 +0000</pubDate>
+    </item>
     <item>
       <title>LifeboatLabs/done-with-windows-10： 可以延长你的Windows 10 服务 一个免费的、通俗易懂的方案，帮助你保持 Windo</title>
       <link>https://t.me/piracy6/36914</link>
