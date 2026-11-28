@@ -38,7 +38,6 @@ jobstash
 echojobs_io
 jobs_web3
 remotejobs
-OneMillion_AI
 ooapps
 vps_soso
 netjobsincrypto
